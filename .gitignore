@@ -3,6 +3,5 @@ __pycache__/
 *.pyc
 *.pyo
 data/*.json
-docs/data/*.json
 .DS_Store
 *.log
