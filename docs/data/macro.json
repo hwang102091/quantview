@@ -1,0 +1,48 @@
+{
+  "updated_at": "2026-05-10T18:33:13+09:00",
+  "fred": {
+    "fed_funds_rate": {
+      "date": "2026-05-07",
+      "value": 3.63
+    },
+    "treasury_10y": {
+      "date": "2026-04-01",
+      "value": 4.32
+    },
+    "treasury_2y": {
+      "date": "2026-04-01",
+      "value": 3.8
+    },
+    "yield_spread_10y_2y": {
+      "date": "2026-05-08",
+      "value": 0.48
+    },
+    "cpi": {
+      "date": "2026-03-01",
+      "value": 3.28596
+    },
+    "unemployment": {
+      "date": "2026-04-01",
+      "value": 4.3
+    },
+    "m2_money_supply": {
+      "date": "2026-03-01",
+      "value": 22686.0
+    },
+    "usd_krw": {
+      "date": "2026-05-01",
+      "value": 1477.22
+    }
+  },
+  "bdi": {
+    "symbol": "HG=F",
+    "date": "2026-05-08",
+    "value": 6.296500205993652,
+    "note": "BDI 대체: 구리선물(HG=F) — 경기선행 지표"
+  },
+  "vix": {
+    "symbol": "^VIX",
+    "date": "2026-05-08",
+    "value": 17.190000534057617
+  }
+}

@@ -221,6 +221,10 @@ def step_save(
     clean_watchlist = _strip_df(watchlist)
     clean_focus = _strip_df(focus)
 
+    sm = bundle.get("smart_money") or {}
+    macro_data = bundle.get("macro") or {}
+    etf = bundle.get("etf_flows") or {}
+
     files = {
         "stocks.json": {"updated_at": updated_at, "stocks": clean_watchlist},
         "signals.json": {"updated_at": updated_at, "signals": sigs},
@@ -229,9 +233,27 @@ def step_save(
             "updated_at": updated_at,
             "watchlist": clean_watchlist,
             "focus": clean_focus,
-            "macro": bundle.get("macro"),
+            "macro": macro_data,
             "sentiment": bundle.get("sentiment"),
-            "etf_flows": bundle.get("etf_flows"),
+            "etf_flows": etf,
+        },
+        "macro.json": {
+            "updated_at": updated_at,
+            **macro_data,
+        },
+        "smart_money.json": {
+            "updated_at": updated_at,
+            "gurus": sm.get("dataroma", {}),
+            "congress": sm.get("congress", []),
+            "insider": sm.get("form4", []),
+        },
+        "ratings.json": {
+            "updated_at": updated_at,
+            "ratings": bundle.get("ratings") or {},
+        },
+        "etf_flows.json": {
+            "updated_at": updated_at,
+            "heatmap": list(etf.values()) if isinstance(etf, dict) else [],
         },
     }
 
