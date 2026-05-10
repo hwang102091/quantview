@@ -417,13 +417,35 @@ async function loadData() {
   renderMacroRibbon(macro);
   renderMacroTab(macro);
 
-  const stocks  = stocksJ.stocks || snapshotJ.watchlist || [];
+  // 종목: stocks.json 기반. US 종목이 없으면 ratings에서 보완
+  const ratingsData = ratingsJ.ratings || {};
+  let stocks = stocksJ.stocks || snapshotJ.watchlist || [];
+  const hasUs = stocks.some(s => s.market === 'us');
+  if (!hasUs && Object.keys(ratingsData).length > 0) {
+    stocks = [...stocks, ...buildUsStocksFromRatings(ratingsData)];
+  }
+
   const signals = signalsJ.signals || {};
   renderScreener(stocks, signals);
 
-  renderRankings(rankingsJ.rankings || {});
+  // rankings: 비어있으면 ratings에서 buy_consensus 계산
+  let rankings = rankingsJ.rankings || {};
+  if (!rankings.buy_consensus?.length && Object.keys(ratingsData).length) {
+    rankings = { ...rankings, buy_consensus: computeBuyConsensus(ratingsData) };
+  }
+
+  renderRankings(rankings);
   renderSmartMoney(smartMoney);
   renderETF(etfFlows);
+
+  // ── 디버그 로그 ────────────────────────────────────────────────────────
+  const krCnt = stocks.filter(s => s.market === 'kr').length;
+  const usCnt = stocks.filter(s => s.market === 'us').length;
+  console.log(`[QV] stocks: ${stocks.length} (kr:${krCnt}, us:${usCnt})`);
+  console.log('[QV] rankings keys:', Object.keys(rankings), '| buy_consensus:', rankings.buy_consensus?.length ?? 0);
+  console.log('[QV] ratings tickers:', Object.keys(ratingsData).length);
+  console.log('[QV] signals tickers:', Object.keys(signals).length);
+  console.log('[QV] etfFlows heatmap:', Array.isArray(etfFlows?.heatmap) ? etfFlows.heatmap.length : typeof etfFlows);
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -657,6 +679,58 @@ function chipTag(text, sig) {
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
+//  ratings 보조 함수
+// ═══════════════════════════════════════════════════════════════════════════
+
+// ratings.json → buy_consensus TOP20 계산
+function computeBuyConsensus(ratingsData) {
+  return Object.values(ratingsData)
+    .filter(r => r.buy != null && (r.buy + (r.hold||0) + (r.sell||0)) > 0)
+    .map(r => {
+      const total = (r.buy||0) + (r.hold||0) + (r.sell||0);
+      return {
+        ticker:    r.ticker,
+        name:      r.name || '',
+        market:    r.market || 'us',
+        buy:       r.buy,
+        hold:      r.hold ?? 0,
+        sell:      r.sell ?? 0,
+        buy_ratio: +((r.buy / total) * 100).toFixed(1),
+        target:    r.target,
+        quant_score: null,
+      };
+    })
+    .sort((a, b) => b.buy_ratio - a.buy_ratio)
+    .slice(0, 20);
+}
+
+// stocks.json에 US 종목이 없을 때 ratings.json US 종목으로 스크리너 보완
+// quant_score = buy_ratio (0~100), 나머지 재무 필드는 null(-) 표시
+function buildUsStocksFromRatings(ratingsData) {
+  return Object.values(ratingsData)
+    .filter(r => r.market === 'us' && r.buy != null)
+    .map(r => {
+      const total = (r.buy||0) + (r.hold||0) + (r.sell||0);
+      const buy_ratio = total > 0 ? (r.buy / total) * 100 : 0;
+      return {
+        ticker:        r.ticker,
+        name:          r.name || r.ticker,
+        sector:        'US Market',
+        tag:           'us',
+        market:        'us',
+        filter_override: null,
+        quant_score:   +buy_ratio.toFixed(1),
+        market_cap_bn: null,
+        per:           null,
+        pbr:           null,
+        roe:           null,
+        debt_ratio:    null,
+        _ratings_only: true,
+      };
+    });
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
 //  랭킹
 // ═══════════════════════════════════════════════════════════════════════════
 let _rankings = {}, _activeRk = 'buy_consensus';
@@ -675,7 +749,10 @@ function showRanking(key) {
   const panel = document.getElementById('ranking-body');
 
   if (!data.length) {
-    panel.innerHTML = empty('데이터 준비 중입니다. 첫 실행 후 표시됩니다.');
+    const msg = key === 'buy_consensus'
+      ? '매수 컨센서스 데이터가 없습니다.'
+      : '데이터 준비 중입니다. 다음 실행 후 표시됩니다.';
+    panel.innerHTML = empty(msg);
     return;
   }
 
