@@ -1,53 +1,4130 @@
 [
-  {"ticker":"NVDA","name":"NVIDIA","sector":"반도체·AI","tag":"semi","market":"us","filter_override":null},
-  {"ticker":"AMD","name":"Advanced Micro Devices","sector":"반도체","tag":"semi","market":"us","filter_override":null},
-  {"ticker":"AVGO","name":"Broadcom","sector":"반도체","tag":"semi","market":"us","filter_override":null},
-  {"ticker":"TSM","name":"Taiwan Semiconductor","sector":"반도체 파운드리","tag":"semi","market":"us","filter_override":null},
-  {"ticker":"INTC","name":"Intel","sector":"반도체","tag":"semi","market":"us","filter_override":null},
-  {"ticker":"MU","name":"Micron Technology","sector":"메모리","tag":"semi","market":"us","filter_override":null},
-  {"ticker":"ASML","name":"ASML Holding","sector":"반도체 장비","tag":"semi","market":"us","filter_override":null},
-  {"ticker":"AMAT","name":"Applied Materials","sector":"반도체 장비","tag":"semi","market":"us","filter_override":null},
-  {"ticker":"MSFT","name":"Microsoft","sector":"클라우드·AI","tag":"cloud","market":"us","filter_override":null},
-  {"ticker":"GOOGL","name":"Alphabet","sector":"플랫폼·AI","tag":"cloud","market":"us","filter_override":null},
-  {"ticker":"AMZN","name":"Amazon","sector":"이커머스·AWS","tag":"cloud","market":"us","filter_override":null},
-  {"ticker":"META","name":"Meta Platforms","sector":"소셜·AI","tag":"cloud","market":"us","filter_override":null},
-  {"ticker":"AAPL","name":"Apple","sector":"소비자 IT","tag":"it","market":"us","filter_override":null},
-  {"ticker":"NFLX","name":"Netflix","sector":"스트리밍","tag":"it","market":"us","filter_override":null},
-  {"ticker":"CRM","name":"Salesforce","sector":"SaaS","tag":"cloud","market":"us","filter_override":null},
-  {"ticker":"ORCL","name":"Oracle","sector":"DB·클라우드","tag":"cloud","market":"us","filter_override":null},
-  {"ticker":"PLTR","name":"Palantir","sector":"AI 분석","tag":"cloud","market":"us","filter_override":null},
-  {"ticker":"SNOW","name":"Snowflake","sector":"데이터 클라우드","tag":"cloud","market":"us","filter_override":null},
-  {"ticker":"OKLO","name":"Oklo","sector":"SMR 원자력","tag":"nuclear","market":"us","filter_override":null},
-  {"ticker":"SMR","name":"NuScale Power","sector":"SMR 원자력","tag":"nuclear","market":"us","filter_override":null},
-  {"ticker":"BWXT","name":"BWX Technologies","sector":"원자력","tag":"nuclear","market":"us","filter_override":null},
-  {"ticker":"CEG","name":"Constellation Energy","sector":"원자력 발전","tag":"nuclear","market":"us","filter_override":null},
-  {"ticker":"VST","name":"Vistra","sector":"전력·원자력","tag":"nuclear","market":"us","filter_override":null},
-  {"ticker":"LMT","name":"Lockheed Martin","sector":"방산","tag":"defense","market":"us","filter_override":null},
-  {"ticker":"RTX","name":"RTX Corporation","sector":"방산·항공","tag":"defense","market":"us","filter_override":null},
-  {"ticker":"NOC","name":"Northrop Grumman","sector":"방산","tag":"defense","market":"us","filter_override":null},
-  {"ticker":"GD","name":"General Dynamics","sector":"방산","tag":"defense","market":"us","filter_override":null},
-  {"ticker":"BA","name":"Boeing","sector":"항공·방산","tag":"defense","market":"us","filter_override":null},
-  {"ticker":"MRNA","name":"Moderna","sector":"바이오·mRNA","tag":"bio","market":"us","filter_override":null},
-  {"ticker":"PFE","name":"Pfizer","sector":"제약","tag":"bio","market":"us","filter_override":null},
-  {"ticker":"LLY","name":"Eli Lilly","sector":"제약","tag":"bio","market":"us","filter_override":null},
-  {"ticker":"NVO","name":"Novo Nordisk","sector":"제약","tag":"bio","market":"us","filter_override":null},
-  {"ticker":"REGN","name":"Regeneron","sector":"바이오","tag":"bio","market":"us","filter_override":null},
-  {"ticker":"VRTX","name":"Vertex Pharmaceuticals","sector":"바이오","tag":"bio","market":"us","filter_override":null},
-  {"ticker":"JPM","name":"JPMorgan Chase","sector":"은행","tag":"finance","market":"us","filter_override":null},
-  {"ticker":"BAC","name":"Bank of America","sector":"은행","tag":"finance","market":"us","filter_override":null},
-  {"ticker":"GS","name":"Goldman Sachs","sector":"투자은행","tag":"finance","market":"us","filter_override":null},
-  {"ticker":"MS","name":"Morgan Stanley","sector":"투자은행","tag":"finance","market":"us","filter_override":null},
-  {"ticker":"BRK-B","name":"Berkshire Hathaway","sector":"지주·보험","tag":"finance","market":"us","filter_override":null},
-  {"ticker":"V","name":"Visa","sector":"결제","tag":"finance","market":"us","filter_override":null},
-  {"ticker":"MA","name":"Mastercard","sector":"결제","tag":"finance","market":"us","filter_override":null},
-  {"ticker":"TSLA","name":"Tesla","sector":"전기차·AI","tag":"consumer","market":"us","filter_override":null},
-  {"ticker":"COST","name":"Costco","sector":"유통","tag":"consumer","market":"us","filter_override":null},
-  {"ticker":"WMT","name":"Walmart","sector":"유통","tag":"consumer","market":"us","filter_override":null},
-  {"ticker":"PG","name":"Procter & Gamble","sector":"생활용품","tag":"consumer","market":"us","filter_override":null},
-  {"ticker":"KO","name":"Coca-Cola","sector":"음료","tag":"consumer","market":"us","filter_override":null},
-  {"ticker":"XOM","name":"ExxonMobil","sector":"에너지","tag":"energy","market":"us","filter_override":null},
-  {"ticker":"CVX","name":"Chevron","sector":"에너지","tag":"energy","market":"us","filter_override":null},
-  {"ticker":"OXY","name":"Occidental Petroleum","sector":"에너지","tag":"energy","market":"us","filter_override":null},
-  {"ticker":"FCX","name":"Freeport-McMoRan","sector":"구리·금","tag":"materials","market":"us","filter_override":null},
-  {"ticker":"NEM","name":"Newmont","sector":"금광","tag":"materials","market":"us","filter_override":null}
+  {
+    "ticker": "MMM",
+    "name": "3M",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AOS",
+    "name": "A. O. Smith",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ABBV",
+    "name": "AbbVie",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AES",
+    "name": "AES Corporation",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AFL",
+    "name": "Aflac",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "A",
+    "name": "Agilent Technologies",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "APD",
+    "name": "Air Products",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AKAM",
+    "name": "Akamai Technologies",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ALB",
+    "name": "Albemarle Corporation",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ARE",
+    "name": "Alexandria Real Estate Equities",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ALGN",
+    "name": "Align Technology",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ALLE",
+    "name": "Allegion",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LNT",
+    "name": "Alliant Energy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ALL",
+    "name": "Allstate",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc. (Class A)",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc. (Class C)",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MO",
+    "name": "Altria",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AMCR",
+    "name": "Amcor",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AEE",
+    "name": "Ameren",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AEP",
+    "name": "American Electric Power",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AXP",
+    "name": "American Express",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AIG",
+    "name": "American International Group",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AMT",
+    "name": "American Tower",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AWK",
+    "name": "American Water Works",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AMP",
+    "name": "Ameriprise Financial",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AME",
+    "name": "Ametek",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AMGN",
+    "name": "Amgen",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "APH",
+    "name": "Amphenol",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AON",
+    "name": "Aon plc",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "APA",
+    "name": "APA Corporation",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "APO",
+    "name": "Apollo Global Management",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "APP",
+    "name": "AppLovin",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "APTV",
+    "name": "Aptiv",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ACGL",
+    "name": "Arch Capital Group",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ADM",
+    "name": "Archer Daniels Midland",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ARES",
+    "name": "Ares Management",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ANET",
+    "name": "Arista Networks",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AIZ",
+    "name": "Assurant",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "T",
+    "name": "AT&T",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ATO",
+    "name": "Atmos Energy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ADSK",
+    "name": "Autodesk",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AZO",
+    "name": "AutoZone",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AVB",
+    "name": "AvalonBay Communities",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AVY",
+    "name": "Avery Dennison",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AXON",
+    "name": "Axon Enterprise",
+    "sector": "Industrials",
+    "tag": "defense",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BKR",
+    "name": "Baker Hughes",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BALL",
+    "name": "Ball Corporation",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BAC",
+    "name": "Bank of America",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BAX",
+    "name": "Baxter International",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BDX",
+    "name": "Becton Dickinson",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BRK-B",
+    "name": "Berkshire Hathaway",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BBY",
+    "name": "Best Buy",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TECH",
+    "name": "Bio-Techne",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BIIB",
+    "name": "Biogen",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BLK",
+    "name": "BlackRock",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BX",
+    "name": "Blackstone Inc.",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "XYZ",
+    "name": "Block, Inc.",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BK",
+    "name": "BNY Mellon",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BA",
+    "name": "Boeing",
+    "sector": "Industrials",
+    "tag": "defense",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BKNG",
+    "name": "Booking Holdings",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BSX",
+    "name": "Boston Scientific",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BMY",
+    "name": "Bristol Myers Squibb",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BR",
+    "name": "Broadridge Financial Solutions",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BRO",
+    "name": "Brown & Brown",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BF-B",
+    "name": "Brown–Forman",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BLDR",
+    "name": "Builders FirstSource",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BG",
+    "name": "Bunge Global",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BXP",
+    "name": "BXP, Inc.",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CHRW",
+    "name": "C.H. Robinson",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CPT",
+    "name": "Camden Property Trust",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CPB",
+    "name": "Campbell's Company (The)",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "COF",
+    "name": "Capital One",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CAH",
+    "name": "Cardinal Health",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CCL",
+    "name": "Carnival Corporation",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CARR",
+    "name": "Carrier Global",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CVNA",
+    "name": "Carvana",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CASY",
+    "name": "Casey's",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc.",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CBOE",
+    "name": "Cboe Global Markets",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CBRE",
+    "name": "CBRE Group",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CDW",
+    "name": "CDW Corporation",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "COR",
+    "name": "Cencora",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CNC",
+    "name": "Centene Corporation",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CNP",
+    "name": "CenterPoint Energy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CF",
+    "name": "CF Industries",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CRL",
+    "name": "Charles River Laboratories",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SCHW",
+    "name": "Charles Schwab Corporation",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CHTR",
+    "name": "Charter Communications",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CVX",
+    "name": "Chevron Corporation",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CB",
+    "name": "Chubb Limited",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CHD",
+    "name": "Church & Dwight",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CIEN",
+    "name": "Ciena",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CI",
+    "name": "Cigna",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CINF",
+    "name": "Cincinnati Financial",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CTAS",
+    "name": "Cintas",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "C",
+    "name": "Citigroup",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CFG",
+    "name": "Citizens Financial Group",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CLX",
+    "name": "Clorox",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CME",
+    "name": "CME Group",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CMS",
+    "name": "CMS Energy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "KO",
+    "name": "Coca-Cola Company (The)",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CTSH",
+    "name": "Cognizant",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "COHR",
+    "name": "Coherent Corp.",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CL",
+    "name": "Colgate-Palmolive",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CMCSA",
+    "name": "Comcast",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FIX",
+    "name": "Comfort Systems USA",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CAG",
+    "name": "Conagra Brands",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ED",
+    "name": "Consolidated Edison",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "STZ",
+    "name": "Constellation Brands",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "COO",
+    "name": "Cooper Companies (The)",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CPRT",
+    "name": "Copart",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GLW",
+    "name": "Corning Inc.",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CPAY",
+    "name": "Corpay",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CTVA",
+    "name": "Corteva",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CSGP",
+    "name": "CoStar Group",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CRH",
+    "name": "CRH plc",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CCI",
+    "name": "Crown Castle",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CSX",
+    "name": "CSX Corporation",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CMI",
+    "name": "Cummins",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CVS",
+    "name": "CVS Health",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DHR",
+    "name": "Danaher Corporation",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DRI",
+    "name": "Darden Restaurants",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DVA",
+    "name": "DaVita",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DECK",
+    "name": "Deckers Brands",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DE",
+    "name": "Deere & Company",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DELL",
+    "name": "Dell Technologies",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DAL",
+    "name": "Delta Air Lines",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DVN",
+    "name": "Devon Energy",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DXCM",
+    "name": "Dexcom",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FANG",
+    "name": "Diamondback Energy",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DLR",
+    "name": "Digital Realty",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DG",
+    "name": "Dollar General",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DLTR",
+    "name": "Dollar Tree",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "D",
+    "name": "Dominion Energy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DPZ",
+    "name": "Domino's",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DASH",
+    "name": "DoorDash",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DOV",
+    "name": "Dover Corporation",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DOW",
+    "name": "Dow Inc.",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DHI",
+    "name": "D. R. Horton",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DTE",
+    "name": "DTE Energy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DUK",
+    "name": "Duke Energy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DD",
+    "name": "DuPont",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ETN",
+    "name": "Eaton Corporation",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EBAY",
+    "name": "eBay Inc.",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SATS",
+    "name": "EchoStar",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ECL",
+    "name": "Ecolab",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EIX",
+    "name": "Edison International",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EW",
+    "name": "Edwards Lifesciences",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EA",
+    "name": "Electronic Arts",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ELV",
+    "name": "Elevance Health",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EME",
+    "name": "Emcor",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EMR",
+    "name": "Emerson Electric",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ETR",
+    "name": "Entergy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EOG",
+    "name": "EOG Resources",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EPAM",
+    "name": "EPAM Systems",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EQT",
+    "name": "EQT Corporation",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EFX",
+    "name": "Equifax",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EQIX",
+    "name": "Equinix",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EQR",
+    "name": "Equity Residential",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ERIE",
+    "name": "Erie Indemnity",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ESS",
+    "name": "Essex Property Trust",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EL",
+    "name": "Estée Lauder Companies (The)",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EG",
+    "name": "Everest Group",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EVRG",
+    "name": "Evergy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ES",
+    "name": "Eversource Energy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EXC",
+    "name": "Exelon",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EXE",
+    "name": "Expand Energy",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EXPE",
+    "name": "Expedia Group",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EXPD",
+    "name": "Expeditors International",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "EXR",
+    "name": "Extra Space Storage",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "XOM",
+    "name": "ExxonMobil",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FFIV",
+    "name": "F5, Inc.",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FDS",
+    "name": "FactSet",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FICO",
+    "name": "Fair Isaac",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FRT",
+    "name": "Federal Realty Investment Trust",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FDX",
+    "name": "FedEx",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FIS",
+    "name": "Fidelity National Information Services",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FITB",
+    "name": "Fifth Third Bancorp",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FSLR",
+    "name": "First Solar",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FE",
+    "name": "FirstEnergy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FISV",
+    "name": "Fiserv",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "F",
+    "name": "Ford Motor Company",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FTNT",
+    "name": "Fortinet",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FTV",
+    "name": "Fortive",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FOXA",
+    "name": "Fox Corporation (Class A)",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FOX",
+    "name": "Fox Corporation (Class B)",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "BEN",
+    "name": "Franklin Resources",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FCX",
+    "name": "Freeport-McMoRan",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GRMN",
+    "name": "Garmin",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "IT",
+    "name": "Gartner",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GE",
+    "name": "GE Aerospace",
+    "sector": "Industrials",
+    "tag": "defense",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GEHC",
+    "name": "GE HealthCare",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GEV",
+    "name": "GE Vernova",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GEN",
+    "name": "Gen Digital",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GNRC",
+    "name": "Generac",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GD",
+    "name": "General Dynamics",
+    "sector": "Industrials",
+    "tag": "defense",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GIS",
+    "name": "General Mills",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GM",
+    "name": "General Motors",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GPC",
+    "name": "Genuine Parts Company",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GILD",
+    "name": "Gilead Sciences",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GPN",
+    "name": "Global Payments",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GL",
+    "name": "Globe Life",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GDDY",
+    "name": "GoDaddy",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GS",
+    "name": "Goldman Sachs",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HAL",
+    "name": "Halliburton",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HIG",
+    "name": "Hartford (The)",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HAS",
+    "name": "Hasbro",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HCA",
+    "name": "HCA Healthcare",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DOC",
+    "name": "Healthpeak Properties",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HSIC",
+    "name": "Henry Schein",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HSY",
+    "name": "Hershey Company (The)",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HLT",
+    "name": "Hilton Worldwide",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HD",
+    "name": "Home Depot (The)",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HRL",
+    "name": "Hormel Foods",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HST",
+    "name": "Host Hotels & Resorts",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HWM",
+    "name": "Howmet Aerospace",
+    "sector": "Industrials",
+    "tag": "defense",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HUBB",
+    "name": "Hubbell Incorporated",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HUM",
+    "name": "Humana",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HBAN",
+    "name": "Huntington Bancshares",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HII",
+    "name": "Huntington Ingalls Industries",
+    "sector": "Industrials",
+    "tag": "defense",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "IBM",
+    "name": "IBM",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "IEX",
+    "name": "IDEX Corporation",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "IDXX",
+    "name": "Idexx Laboratories",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ITW",
+    "name": "Illinois Tool Works",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "INCY",
+    "name": "Incyte",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "IR",
+    "name": "Ingersoll Rand",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PODD",
+    "name": "Insulet Corporation",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "IBKR",
+    "name": "Interactive Brokers",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ICE",
+    "name": "Intercontinental Exchange",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "IFF",
+    "name": "International Flavors & Fragrances",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "IP",
+    "name": "International Paper",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "IVZ",
+    "name": "Invesco",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "INVH",
+    "name": "Invitation Homes",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "IQV",
+    "name": "IQVIA",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "IRM",
+    "name": "Iron Mountain",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "JBHT",
+    "name": "J.B. Hunt",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "JBL",
+    "name": "Jabil",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "JKHY",
+    "name": "Jack Henry & Associates",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "J",
+    "name": "Jacobs Solutions",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "JCI",
+    "name": "Johnson Controls",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "KVUE",
+    "name": "Kenvue",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "KEY",
+    "name": "KeyCorp",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "KEYS",
+    "name": "Keysight Technologies",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "KIM",
+    "name": "Kimco Realty",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "KMI",
+    "name": "Kinder Morgan",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "KKR",
+    "name": "KKR & Co.",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "KHC",
+    "name": "Kraft Heinz",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "KR",
+    "name": "Kroger",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LHX",
+    "name": "L3Harris",
+    "sector": "Industrials",
+    "tag": "defense",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LH",
+    "name": "Labcorp",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LVS",
+    "name": "Las Vegas Sands",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LDOS",
+    "name": "Leidos",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LEN",
+    "name": "Lennar",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LII",
+    "name": "Lennox International",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LLY",
+    "name": "Lilly (Eli)",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LIN",
+    "name": "Linde plc",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LYV",
+    "name": "Live Nation Entertainment",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LMT",
+    "name": "Lockheed Martin",
+    "sector": "Industrials",
+    "tag": "defense",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "L",
+    "name": "Loews Corporation",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LOW",
+    "name": "Lowe's",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LULU",
+    "name": "Lululemon Athletica",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LITE",
+    "name": "Lumentum",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LYB",
+    "name": "LyondellBasell",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MTB",
+    "name": "M&T Bank",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MPC",
+    "name": "Marathon Petroleum",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott International",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MRSH",
+    "name": "Marsh McLennan",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MLM",
+    "name": "Martin Marietta Materials",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MAS",
+    "name": "Masco",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MA",
+    "name": "Mastercard",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MKC",
+    "name": "McCormick & Company",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MCD",
+    "name": "McDonald's",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MCK",
+    "name": "McKesson Corporation",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MDT",
+    "name": "Medtronic",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MRK",
+    "name": "Merck & Co.",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MET",
+    "name": "MetLife",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MTD",
+    "name": "Mettler Toledo",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MGM",
+    "name": "MGM Resorts",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MAA",
+    "name": "Mid-America Apartment Communities",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MRNA",
+    "name": "Moderna",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TAP",
+    "name": "Molson Coors Beverage Company",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MDLZ",
+    "name": "Mondelez International",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MNST",
+    "name": "Monster Beverage",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MCO",
+    "name": "Moody's Corporation",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MOS",
+    "name": "Mosaic Company (The)",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MSI",
+    "name": "Motorola Solutions",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MSCI",
+    "name": "MSCI Inc.",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NDAQ",
+    "name": "Nasdaq, Inc.",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NTAP",
+    "name": "NetApp",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NEM",
+    "name": "Newmont",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NWSA",
+    "name": "News Corp (Class A)",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NWS",
+    "name": "News Corp (Class B)",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NEE",
+    "name": "NextEra Energy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NKE",
+    "name": "Nike, Inc.",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NI",
+    "name": "NiSource",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NDSN",
+    "name": "Nordson Corporation",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NSC",
+    "name": "Norfolk Southern",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NTRS",
+    "name": "Northern Trust",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NOC",
+    "name": "Northrop Grumman",
+    "sector": "Industrials",
+    "tag": "defense",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NCLH",
+    "name": "Norwegian Cruise Line Holdings",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NRG",
+    "name": "NRG Energy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NUE",
+    "name": "Nucor",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NVDA",
+    "name": "Nvidia",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NVR",
+    "name": "NVR, Inc.",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ORLY",
+    "name": "O’Reilly Automotive",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "OXY",
+    "name": "Occidental Petroleum",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ODFL",
+    "name": "Old Dominion",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "OMC",
+    "name": "Omnicom Group",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ON",
+    "name": "ON Semiconductor",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "OKE",
+    "name": "Oneok",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "OTIS",
+    "name": "Otis Worldwide",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PCAR",
+    "name": "Paccar",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PKG",
+    "name": "Packaging Corporation of America",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PSKY",
+    "name": "Paramount Skydance Corporation",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PH",
+    "name": "Parker Hannifin",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PAYX",
+    "name": "Paychex",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PYPL",
+    "name": "PayPal",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PNR",
+    "name": "Pentair",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PFE",
+    "name": "Pfizer",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PCG",
+    "name": "PG&E Corporation",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PM",
+    "name": "Philip Morris International",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PNW",
+    "name": "Pinnacle West Capital",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PNC",
+    "name": "PNC Financial Services",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "POOL",
+    "name": "Pool Corporation",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PPG",
+    "name": "PPG Industries",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PPL",
+    "name": "PPL Corporation",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PFG",
+    "name": "Principal Financial Group",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PG",
+    "name": "Procter & Gamble",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PGR",
+    "name": "Progressive Corporation",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PLD",
+    "name": "Prologis",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PRU",
+    "name": "Prudential Financial",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PEG",
+    "name": "Public Service Enterprise Group",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PSA",
+    "name": "Public Storage",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PHM",
+    "name": "PulteGroup",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PWR",
+    "name": "Quanta Services",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "QCOM",
+    "name": "Qualcomm",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DGX",
+    "name": "Quest Diagnostics",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "Q",
+    "name": "Qnity Electronics",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "RL",
+    "name": "Ralph Lauren Corporation",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "RJF",
+    "name": "Raymond James Financial",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "RTX",
+    "name": "RTX Corporation",
+    "sector": "Industrials",
+    "tag": "defense",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "O",
+    "name": "Realty Income",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "REG",
+    "name": "Regency Centers",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "RF",
+    "name": "Regions Financial Corporation",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "RSG",
+    "name": "Republic Services",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "RMD",
+    "name": "ResMed",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "RVTY",
+    "name": "Revvity",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "HOOD",
+    "name": "Robinhood Markets",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ROK",
+    "name": "Rockwell Automation",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ROL",
+    "name": "Rollins, Inc.",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ROP",
+    "name": "Roper Technologies",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ROST",
+    "name": "Ross Stores",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "RCL",
+    "name": "Royal Caribbean Group",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SPGI",
+    "name": "S&P Global",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SNDK",
+    "name": "Sandisk",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SBAC",
+    "name": "SBA Communications",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SLB",
+    "name": "Schlumberger",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "STX",
+    "name": "Seagate Technology",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SRE",
+    "name": "Sempra",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "NOW",
+    "name": "ServiceNow",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SHW",
+    "name": "Sherwin-Williams",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SPG",
+    "name": "Simon Property Group",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SWKS",
+    "name": "Skyworks Solutions",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SJM",
+    "name": "J.M. Smucker Company (The)",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SW",
+    "name": "Smurfit Westrock",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SNA",
+    "name": "Snap-on",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SOLV",
+    "name": "Solventum",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SO",
+    "name": "Southern Company",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "LUV",
+    "name": "Southwest Airlines",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "STT",
+    "name": "State Street Corporation",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "STLD",
+    "name": "Steel Dynamics",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "STE",
+    "name": "Steris",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SYK",
+    "name": "Stryker Corporation",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SMCI",
+    "name": "Supermicro",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SNPS",
+    "name": "Synopsys",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SYY",
+    "name": "Sysco",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TMUS",
+    "name": "T-Mobile US",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TROW",
+    "name": "T. Rowe Price",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TPR",
+    "name": "Tapestry, Inc.",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TRGP",
+    "name": "Targa Resources",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TGT",
+    "name": "Target Corporation",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TEL",
+    "name": "TE Connectivity",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TDY",
+    "name": "Teledyne Technologies",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TER",
+    "name": "Teradyne",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments",
+    "sector": "Information Technology",
+    "tag": "semi",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TPL",
+    "name": "Texas Pacific Land Corporation",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TXT",
+    "name": "Textron",
+    "sector": "Industrials",
+    "tag": "defense",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TJX",
+    "name": "TJX Companies",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TKO",
+    "name": "TKO Group Holdings",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TTD",
+    "name": "Trade Desk (The)",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TSCO",
+    "name": "Tractor Supply",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TT",
+    "name": "Trane Technologies",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TDG",
+    "name": "TransDigm Group",
+    "sector": "Industrials",
+    "tag": "defense",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TRV",
+    "name": "Travelers Companies (The)",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TRMB",
+    "name": "Trimble Inc.",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TFC",
+    "name": "Truist Financial",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TYL",
+    "name": "Tyler Technologies",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TSN",
+    "name": "Tyson Foods",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "USB",
+    "name": "U.S. Bancorp",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "UBER",
+    "name": "Uber",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "UDR",
+    "name": "UDR, Inc.",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ULTA",
+    "name": "Ulta Beauty",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "UNP",
+    "name": "Union Pacific Corporation",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "UAL",
+    "name": "United Airlines Holdings",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "UPS",
+    "name": "United Parcel Service",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "URI",
+    "name": "United Rentals",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "UNH",
+    "name": "UnitedHealth Group",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "UHS",
+    "name": "Universal Health Services",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VLO",
+    "name": "Valero Energy",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VEEV",
+    "name": "Veeva Systems",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VTR",
+    "name": "Ventas",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VLTO",
+    "name": "Veralto",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VRSN",
+    "name": "Verisign",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VRSK",
+    "name": "Verisk Analytics",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VZ",
+    "name": "Verizon",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VRT",
+    "name": "Vertiv",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VTRS",
+    "name": "Viatris",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VICI",
+    "name": "Vici Properties",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "V",
+    "name": "Visa Inc.",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VST",
+    "name": "Vistra Corp.",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "VMC",
+    "name": "Vulcan Materials Company",
+    "sector": "Materials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WRB",
+    "name": "W. R. Berkley Corporation",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "GWW",
+    "name": "W. W. Grainger",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WAB",
+    "name": "Wabtec",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart",
+    "sector": "Consumer Staples",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "DIS",
+    "name": "Walt Disney Company (The)",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WBD",
+    "name": "Warner Bros. Discovery",
+    "sector": "Communication Services",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WM",
+    "name": "Waste Management",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WAT",
+    "name": "Waters Corporation",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WEC",
+    "name": "WEC Energy Group",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WFC",
+    "name": "Wells Fargo",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WELL",
+    "name": "Welltower",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WST",
+    "name": "West Pharmaceutical Services",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WDC",
+    "name": "Western Digital",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WY",
+    "name": "Weyerhaeuser",
+    "sector": "Real Estate",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WSM",
+    "name": "Williams-Sonoma, Inc.",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WMB",
+    "name": "Williams Companies",
+    "sector": "Energy",
+    "tag": "energy",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WTW",
+    "name": "Willis Towers Watson",
+    "sector": "Financials",
+    "tag": "finance",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "WYNN",
+    "name": "Wynn Resorts",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "XEL",
+    "name": "Xcel Energy",
+    "sector": "Utilities",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "XYL",
+    "name": "Xylem Inc.",
+    "sector": "Industrials",
+    "tag": "materials",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "YUM",
+    "name": "Yum! Brands",
+    "sector": "Consumer Discretionary",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies",
+    "sector": "Information Technology",
+    "tag": "cloud",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ZBH",
+    "name": "Zimmer Biomet",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ZTS",
+    "name": "Zoetis",
+    "sector": "Health Care",
+    "tag": "bio",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ALNY",
+    "name": "Alnylam Pharmaceuticals",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ARM",
+    "name": "Arm Holdings",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML Holding",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "CCEP",
+    "name": "Coca-Cola Europacific Partners",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "FER",
+    "name": "Ferrovial",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "INSM",
+    "name": "Insmed Incorporated",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MELI",
+    "name": "Mercado Libre",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "MSTR",
+    "name": "MicroStrategy",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "PDD",
+    "name": "PDD Holdings",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "SHOP",
+    "name": "Shopify",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "TRI",
+    "name": "Thomson Reuters",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  },
+  {
+    "ticker": "ZS",
+    "name": "Zscaler",
+    "sector": "Other",
+    "tag": "consumer",
+    "market": "us",
+    "filter_override": null
+  }
 ]
