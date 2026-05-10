@@ -379,10 +379,16 @@ const FILES = [
 async function safeFetch(url) {
   try {
     const r = await fetch(url);
-    if (!r.ok) return {};
+    if (!r.ok) {
+      console.error(`[QuantView] fetch 실패: ${url} — HTTP ${r.status} ${r.statusText}`);
+      return {};
+    }
     const j = await r.json();
     return j && typeof j === 'object' ? j : {};
-  } catch { return {}; }
+  } catch (e) {
+    console.error(`[QuantView] fetch 오류: ${url} —`, e);
+    return {};
+  }
 }
 
 async function loadData() {
