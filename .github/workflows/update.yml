@@ -1,19 +1,21 @@
+# ============================================================
+# 퀀트 대시보드 데이터 자동 갱신 워크플로우
+#
+# GitHub Pages 설정 방법:
+#   Repository → Settings → Pages
+#   Source: "Deploy from a branch"
+#   Branch: main  /  Folder: /docs
+#   저장 후 https://<username>.github.io/<repo> 에서 대시보드 확인
+# ============================================================
+
 name: 데이터 자동 갱신
 
-# 매일 한국시간 오전 8시(UTC 23:00) + 미국 장 마감 후(UTC 21:30, 한국시간 06:30)에 실행
 on:
+  # 평일 21:00 UTC = 한국시간 익일 06:00 (미국 장 마감 후)
   schedule:
-    - cron: "0 23 * * 1-5"   # 평일 오전 8시 KST (한국 장 시작 전)
-    - cron: "30 21 * * 1-5"  # 평일 미국 장 마감 직후
-  workflow_dispatch:          # 수동 실행 허용
-  push:
-    branches: [ main ]
-    paths:
-      - "collectors/**"
-      - "processors/**"
-      - "universe/**"
-      - "run.py"
-      - "config.py"
+    - cron: "0 21 * * 1-5"
+  # 수동 실행 (Actions 탭 → Run workflow)
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -21,7 +23,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
 
     steps:
       - name: 체크아웃
@@ -38,21 +40,25 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # Secrets를 .env 대신 환경변수로 직접 주입
+      # 수집 일부 실패 시에도 이전 데이터 유지 (continue-on-error)
       - name: 데이터 수집·분석 실행
+        continue-on-error: true
         env:
           DART_API_KEY: ${{ secrets.DART_API_KEY }}
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
         run: |
           python run.py
 
-      - name: 결과 커밋
+      # 변경사항이 있을 때만 커밋 (없으면 스킵)
+      - name: 결과 커밋 및 푸시
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/ docs/data/
           if git diff --cached --quiet; then
-            echo "변경사항 없음"
+            echo "변경사항 없음 — 커밋 스킵"
           else
-            git commit -m "chore(data): 자동 갱신 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "data: auto update $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
