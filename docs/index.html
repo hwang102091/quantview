@@ -396,11 +396,10 @@ async function loadData() {
          ratingsJ, etfJ, snapshotJ, signalsJ] =
     await Promise.all(FILES.map(safeFetch));
 
-  // macro: macro.json 우선, 없으면 snapshot 폴백
-  const hasMacroJ = Object.keys(macroJ).length > 0;
-  const macro = hasMacroJ ? macroJ : {
-    ...( snapshotJ.macro   || {} ),
-    sentiment: snapshotJ.sentiment,
+  // macro: fred/bdi/vix는 macro.json, sentiment는 항상 snapshot에서 병합
+  const macro = {
+    ...(macroJ.fred ? macroJ : (snapshotJ.macro || {})),
+    sentiment: snapshotJ.sentiment || {},
   };
 
   // etf_flows: etf_flows.json 우선, 없으면 snapshot 폴백
@@ -721,8 +720,8 @@ function showRanking(key) {
 //  스마트머니
 // ═══════════════════════════════════════════════════════════════════════════
 function renderSmartMoney(sm) {
-  // snapshot.json 구조와 smart_money.json 스펙 모두 지원
-  const dataroma = sm.dataroma || {};
+  // smart_money.json: sm.gurus가 dataroma 동일 구조 {CODE: {label, holdings}}
+  const dataroma = sm.dataroma || sm.gurus || {};
   const congress = sm.congress || sm.smart_money?.congress || [];
   const gurus    = sm.gurus    || null;
 
@@ -810,10 +809,10 @@ function renderETF(etfRaw) {
     return;
   }
 
-  // heatmap 배열 스펙 구조
+  // heatmap 배열 스펙 구조 (etf_flows.json: symbol/theme/flow_1d/ret_1d)
   if (Array.isArray(etfRaw.heatmap)) {
     cells = etfRaw.heatmap.map(r => ({
-      ticker: r.etf, theme: r.name, flow1d: r.val, ret1d: null,
+      ticker: r.symbol, theme: r.theme, flow1d: r.flow_1d, ret1d: r.ret_1d, aum: r.aum,
     }));
   // snapshot.json 딕셔너리 구조 {TICKER: {theme, flow_1d, ret_1d, ...}}
   } else {
