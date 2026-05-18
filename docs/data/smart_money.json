@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T07:05:18+09:00",
+  "updated_at": "2026-05-19T06:59:38+09:00",
   "gurus": {
     "BRK": {
       "label": "Warren Buffett (Berkshire)",
@@ -7,316 +7,226 @@
         {
           "ticker": "AAPL",
           "name": "Apple Inc.",
-          "recent_activity": "22.60",
+          "recent_activity": "21.99",
           "percent_of_portfolio": null,
           "recent_price": 227917808.0,
-          "avg_cost": 271.86,
+          "avg_cost": 253.79,
           "shares": null
         },
         {
           "ticker": "AXP",
           "name": "American Express",
-          "recent_activity": "20.46",
+          "recent_activity": "17.43",
           "percent_of_portfolio": null,
           "recent_price": 151610700.0,
-          "avg_cost": 369.95,
-          "shares": null
-        },
-        {
-          "ticker": "BAC",
-          "name": "Bank of America Corp.",
-          "recent_activity": "10.38",
-          "percent_of_portfolio": null,
-          "recent_price": 517295934.0,
-          "avg_cost": 55.0,
+          "avg_cost": 302.48,
           "shares": null
         },
         {
           "ticker": "KO",
           "name": "Coca Cola Co.",
-          "recent_activity": "10.20",
+          "recent_activity": "11.56",
           "percent_of_portfolio": null,
           "recent_price": 400000000.0,
-          "avg_cost": 69.91,
+          "avg_cost": 76.05,
+          "shares": null
+        },
+        {
+          "ticker": "BAC",
+          "name": "Bank of America Corp.",
+          "recent_activity": "9.52",
+          "percent_of_portfolio": null,
+          "recent_price": 513624165.0,
+          "avg_cost": 48.75,
           "shares": null
         },
         {
           "ticker": "CVX",
           "name": "Chevron Corp.",
-          "recent_activity": "7.24",
+          "recent_activity": "6.64",
           "percent_of_portfolio": null,
-          "recent_price": 130156362.0,
-          "avg_cost": 152.41,
-          "shares": null
-        },
-        {
-          "ticker": "MCO",
-          "name": "Moody's Corp.",
-          "recent_activity": "4.60",
-          "percent_of_portfolio": null,
-          "recent_price": 24669778.0,
-          "avg_cost": 510.85,
+          "recent_price": 84375856.0,
+          "avg_cost": 206.9,
           "shares": null
         },
         {
           "ticker": "OXY",
           "name": "Occidental Petroleum",
-          "recent_activity": "3.97",
+          "recent_activity": "6.55",
           "percent_of_portfolio": null,
           "recent_price": 264941431.0,
-          "avg_cost": 41.12,
-          "shares": null
-        },
-        {
-          "ticker": "CB",
-          "name": "Chubb Limited",
-          "recent_activity": "3.90",
-          "percent_of_portfolio": null,
-          "recent_price": 34249183.0,
-          "avg_cost": 312.12,
-          "shares": null
-        },
-        {
-          "ticker": "KHC",
-          "name": "Kraft Heinz Co.",
-          "recent_activity": "2.88",
-          "percent_of_portfolio": null,
-          "recent_price": 325634818.0,
-          "avg_cost": 24.25,
+          "avg_cost": 65.0,
           "shares": null
         },
         {
           "ticker": "GOOGL",
           "name": "Alphabet Inc.",
-          "recent_activity": "2.04",
+          "recent_activity": "5.93",
           "percent_of_portfolio": null,
-          "recent_price": 17846142.0,
-          "avg_cost": 313.0,
+          "recent_price": 54249798.0,
+          "avg_cost": 287.56,
+          "shares": null
+        },
+        {
+          "ticker": "CB",
+          "name": "Chubb Limited",
+          "recent_activity": "4.24",
+          "percent_of_portfolio": null,
+          "recent_price": 34249183.0,
+          "avg_cost": 325.93,
+          "shares": null
+        },
+        {
+          "ticker": "MCO",
+          "name": "Moody's Corp.",
+          "recent_activity": "4.09",
+          "percent_of_portfolio": null,
+          "recent_price": 24669778.0,
+          "avg_cost": 436.25,
+          "shares": null
+        },
+        {
+          "ticker": "KHC",
+          "name": "Kraft Heinz Co.",
+          "recent_activity": "2.78",
+          "percent_of_portfolio": null,
+          "recent_price": 325634818.0,
+          "avg_cost": 22.49,
           "shares": null
         },
         {
           "ticker": "DVA",
           "name": "DaVita HealthCare Partners",
-          "recent_activity": "1.32",
+          "recent_activity": "1.76",
           "percent_of_portfolio": null,
-          "recent_price": 31759065.0,
-          "avg_cost": 113.61,
+          "recent_price": 30100585.0,
+          "avg_cost": 153.69,
           "shares": null
         },
         {
           "ticker": "KR",
           "name": "Kroger Co.",
-          "recent_activity": "1.14",
+          "recent_activity": "1.38",
           "percent_of_portfolio": null,
           "recent_price": 50000000.0,
-          "avg_cost": 62.48,
-          "shares": null
-        },
-        {
-          "ticker": "V",
-          "name": "Visa Inc.",
-          "recent_activity": "1.06",
-          "percent_of_portfolio": null,
-          "recent_price": 8297460.0,
-          "avg_cost": 350.71,
+          "avg_cost": 72.36,
           "shares": null
         },
         {
           "ticker": "SIRI",
           "name": "SiriusXM Holdings Inc",
-          "recent_activity": "0.91",
+          "recent_activity": "1.09",
           "percent_of_portfolio": null,
           "recent_price": 124807117.0,
-          "avg_cost": 19.99,
+          "avg_cost": 23.08,
           "shares": null
         },
         {
-          "ticker": "MA",
-          "name": "Mastercard Inc.",
-          "recent_activity": "0.83",
+          "ticker": "DAL",
+          "name": "Delta Air Lines Inc.",
+          "recent_activity": "1.01",
           "percent_of_portfolio": null,
-          "recent_price": 3986648.0,
-          "avg_cost": 570.88,
+          "recent_price": 39809456.0,
+          "avg_cost": 66.48,
           "shares": null
         },
         {
           "ticker": "VRSN",
           "name": "Verisign Inc.",
-          "recent_activity": "0.80",
+          "recent_activity": "0.85",
           "percent_of_portfolio": null,
           "recent_price": 8989880.0,
-          "avg_cost": 242.95,
-          "shares": null
-        },
-        {
-          "ticker": "STZ",
-          "name": "Constellation Brands",
-          "recent_activity": "0.65",
-          "percent_of_portfolio": null,
-          "recent_price": 13000000.0,
-          "avg_cost": 137.96,
+          "avg_cost": 248.36,
           "shares": null
         },
         {
           "ticker": "COF",
           "name": "Capital One Financial",
-          "recent_activity": "0.63",
+          "recent_activity": "0.50",
           "percent_of_portfolio": null,
           "recent_price": 7150000.0,
-          "avg_cost": 242.36,
-          "shares": null
-        },
-        {
-          "ticker": "UNH",
-          "name": "United Health Group Inc.",
-          "recent_activity": "0.61",
-          "percent_of_portfolio": null,
-          "recent_price": 5039564.0,
-          "avg_cost": 330.11,
-          "shares": null
-        },
-        {
-          "ticker": "DPZ",
-          "name": "Dominos Pizza Inc.",
-          "recent_activity": "0.51",
-          "percent_of_portfolio": null,
-          "recent_price": 3350000.0,
-          "avg_cost": 416.82,
-          "shares": null
-        },
-        {
-          "ticker": "ALLY",
-          "name": "Ally Financial Inc.",
-          "recent_activity": "0.48",
-          "percent_of_portfolio": null,
-          "recent_price": 29000000.0,
-          "avg_cost": 45.29,
-          "shares": null
-        },
-        {
-          "ticker": "AON",
-          "name": "Aon Plc",
-          "recent_activity": "0.46",
-          "percent_of_portfolio": null,
-          "recent_price": 3602995.0,
-          "avg_cost": 352.88,
-          "shares": null
-        },
-        {
-          "ticker": "NUE",
-          "name": "Nucor Corp.",
-          "recent_activity": "0.38",
-          "percent_of_portfolio": null,
-          "recent_price": 6407749.0,
-          "avg_cost": 163.11,
-          "shares": null
-        },
-        {
-          "ticker": "LLYVK",
-          "name": "Liberty Media Corp. Series C Live",
-          "recent_activity": "0.33",
-          "percent_of_portfolio": null,
-          "recent_price": 10917661.0,
-          "avg_cost": 83.16,
-          "shares": null
-        },
-        {
-          "ticker": "LEN",
-          "name": "Lennar Corp.",
-          "recent_activity": "0.26",
-          "percent_of_portfolio": null,
-          "recent_price": 7050950.0,
-          "avg_cost": 102.8,
-          "shares": null
-        },
-        {
-          "ticker": "POOL",
-          "name": "Pool Corp.",
-          "recent_activity": "0.26",
-          "percent_of_portfolio": null,
-          "recent_price": 3068885.0,
-          "avg_cost": 228.75,
-          "shares": null
-        },
-        {
-          "ticker": "AMZN",
-          "name": "Amazon.com Inc.",
-          "recent_activity": "0.19",
-          "percent_of_portfolio": null,
-          "recent_price": 2276000.0,
-          "avg_cost": 230.82,
-          "shares": null
-        },
-        {
-          "ticker": "LPX",
-          "name": "Louisiana-Pacific Corp.",
-          "recent_activity": "0.17",
-          "percent_of_portfolio": null,
-          "recent_price": 5664793.0,
-          "avg_cost": 80.76,
-          "shares": null
-        },
-        {
-          "ticker": "LLYVA",
-          "name": "Liberty Media Corp. Series A Live",
-          "recent_activity": "0.15",
-          "percent_of_portfolio": null,
-          "recent_price": 4986588.0,
-          "avg_cost": 81.5,
+          "avg_cost": 182.43,
           "shares": null
         },
         {
           "ticker": "NYT",
           "name": "New York Times CL A",
-          "recent_activity": "0.13",
+          "recent_activity": "0.48",
           "percent_of_portfolio": null,
-          "recent_price": 5065744.0,
-          "avg_cost": 69.42,
+          "recent_price": 15146535.0,
+          "avg_cost": 83.73,
           "shares": null
         },
         {
-          "ticker": "HEI.A",
-          "name": "HEICO Corp. CL A",
-          "recent_activity": "0.12",
+          "ticker": "ALLY",
+          "name": "Ally Financial Inc.",
+          "recent_activity": "0.43",
           "percent_of_portfolio": null,
-          "recent_price": 1294612.0,
-          "avg_cost": 252.43,
+          "recent_price": 29000000.0,
+          "avg_cost": 39.23,
           "shares": null
         },
         {
-          "ticker": "FWONK",
-          "name": "Liberty Media Corp Formula One Series C",
-          "recent_activity": "0.11",
+          "ticker": "GOOG",
+          "name": "Alphabet Inc. CL C",
+          "recent_activity": "0.39",
           "percent_of_portfolio": null,
-          "recent_price": 3018555.0,
-          "avg_cost": 98.51,
+          "recent_price": 3585215.0,
+          "avg_cost": 286.86,
           "shares": null
         },
         {
-          "ticker": "CHTR",
-          "name": "Charter Communications",
-          "recent_activity": "0.08",
+          "ticker": "LLYVK",
+          "name": "Liberty Media Corp. Series C Live",
+          "recent_activity": "0.38",
           "percent_of_portfolio": null,
-          "recent_price": 1060882.0,
-          "avg_cost": 208.75,
+          "recent_price": 10587143.0,
+          "avg_cost": 94.11,
           "shares": null
         },
         {
-          "ticker": "LAMR",
-          "name": "Lamar Advertising Co.",
-          "recent_activity": "0.06",
+          "ticker": "LEN",
+          "name": "Lennar Corp.",
+          "recent_activity": "0.33",
           "percent_of_portfolio": null,
-          "recent_price": 1202410.0,
-          "avg_cost": 126.58,
+          "recent_price": 10099642.0,
+          "avg_cost": 86.84,
           "shares": null
         },
         {
-          "ticker": "ALLE",
-          "name": "Allegion Plc",
-          "recent_activity": "0.05",
+          "ticker": "NUE",
+          "name": "Nucor Corp.",
+          "recent_activity": "0.25",
           "percent_of_portfolio": null,
-          "recent_price": 780133.0,
-          "avg_cost": 159.22,
+          "recent_price": 3907075.0,
+          "avg_cost": 169.1,
+          "shares": null
+        },
+        {
+          "ticker": "LLYVA",
+          "name": "Liberty Media Corp. Series A Live",
+          "recent_activity": "0.17",
+          "percent_of_portfolio": null,
+          "recent_price": 4986588.0,
+          "avg_cost": 91.64,
+          "shares": null
+        },
+        {
+          "ticker": "LPX",
+          "name": "Louisiana-Pacific Corp.",
+          "recent_activity": "0.16",
+          "percent_of_portfolio": null,
+          "recent_price": 5664793.0,
+          "avg_cost": 72.75,
+          "shares": null
+        },
+        {
+          "ticker": "STZ",
+          "name": "Constellation Brands",
+          "recent_activity": "0.04",
+          "percent_of_portfolio": null,
+          "recent_price": 632890.0,
+          "avg_cost": 150.0,
           "shares": null
         },
         {
@@ -325,16 +235,16 @@
           "recent_activity": "0.03",
           "percent_of_portfolio": null,
           "recent_price": 11112.0,
-          "avg_cost": 7292.75,
+          "avg_cost": 6589.81,
           "shares": null
         },
         {
-          "ticker": "DEO",
-          "name": "Diageo ADR",
-          "recent_activity": "0.01",
+          "ticker": "M",
+          "name": "Macy's Inc.",
+          "recent_activity": "0.02",
           "percent_of_portfolio": null,
-          "recent_price": 227750.0,
-          "avg_cost": 86.27,
+          "recent_price": 3038355.0,
+          "avg_cost": 18.09,
           "shares": null
         },
         {
@@ -343,7 +253,7 @@
           "recent_activity": "0.01",
           "percent_of_portfolio": null,
           "recent_price": 433558.0,
-          "avg_cost": 61.97,
+          "avg_cost": 41.27,
           "shares": null
         },
         {
@@ -351,35 +261,8 @@
           "name": "Lennar Corp. CL B",
           "recent_activity": "0.01",
           "percent_of_portfolio": null,
-          "recent_price": 180980.0,
-          "avg_cost": 95.12,
-          "shares": null
-        },
-        {
-          "ticker": "LILA",
-          "name": "Liberty LiLAC Group A",
-          "recent_activity": "0.01",
-          "percent_of_portfolio": null,
-          "recent_price": 2396665.0,
-          "avg_cost": 7.39,
-          "shares": null
-        },
-        {
-          "ticker": "BATRK",
-          "name": "Atlanta Braves Holdings Inc. Series C",
-          "recent_activity": "0.00",
-          "percent_of_portfolio": null,
-          "recent_price": 115428.0,
-          "avg_cost": 39.44,
-          "shares": null
-        },
-        {
-          "ticker": "LILAK",
-          "name": "Liberty LiLAC Group C",
-          "recent_activity": "0.00",
-          "percent_of_portfolio": null,
-          "recent_price": 1284020.0,
-          "avg_cost": 7.46,
+          "recent_price": 237703.0,
+          "avg_cost": 84.12,
           "shares": null
         }
       ]
