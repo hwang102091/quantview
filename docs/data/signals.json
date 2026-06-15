@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-13T07:20:21+09:00",
+  "updated_at": "2026-06-16T07:59:06+09:00",
   "signals": {
     "000660": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 58.4,
+      "rsi": 62.5,
       "quant_score": 68.78,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
@@ -24,7 +24,7 @@
     "005930": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 57.4,
+      "rsi": 60.4,
       "quant_score": 66.7,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
@@ -34,8 +34,8 @@
     "005935": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 57.2,
-      "quant_score": 65.41,
+      "rsi": 60.5,
+      "quant_score": 65.42,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -44,8 +44,28 @@
     "009540": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 47.7,
-      "quant_score": 63.76,
+      "rsi": 54.1,
+      "quant_score": 65.15,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "062040": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 53.8,
+      "quant_score": 63.11,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "016360": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 52.5,
+      "quant_score": 62.89,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -54,7 +74,7 @@
     "042700": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 59.0,
+      "rsi": 56.2,
       "quant_score": 62.56,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
@@ -64,68 +84,8 @@
     "033780": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 59.5,
-      "quant_score": 62.2,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "016360": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 49.8,
-      "quant_score": 62.2,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "000990": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 53.1,
-      "quant_score": 61.43,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "062040": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 47.1,
-      "quant_score": 60.94,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "278470": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 48.2,
-      "quant_score": 60.93,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "000810": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 61.0,
-      "quant_score": 60.9,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "006800": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 33.7,
-      "quant_score": 60.61,
+      "rsi": 60.2,
+      "quant_score": 62.1,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -134,8 +94,28 @@
     "267260": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 54.4,
-      "quant_score": 60.07,
+      "rsi": 58.9,
+      "quant_score": 61.25,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "000810": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 63.8,
+      "quant_score": 61.19,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "278470": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 53.9,
+      "quant_score": 61.12,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -144,8 +124,18 @@
     "028050": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 46.3,
-      "quant_score": 59.3,
+      "rsi": 54.3,
+      "quant_score": 60.49,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "006800": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 32.8,
+      "quant_score": 60.35,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -154,8 +144,8 @@
     "443060": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 57.6,
-      "quant_score": 58.74,
+      "rsi": 60.1,
+      "quant_score": 59.86,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -164,8 +154,38 @@
     "105560": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 54.6,
-      "quant_score": 58.28,
+      "rsi": 60.4,
+      "quant_score": 59.2,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "086790": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 60.4,
+      "quant_score": 58.73,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "079550": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 53.8,
+      "quant_score": 58.54,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "298040": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 54.3,
+      "quant_score": 57.82,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -174,7 +194,7 @@
     "009150": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 59.6,
+      "rsi": 66.7,
       "quant_score": 57.41,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
@@ -184,38 +204,8 @@
     "010120": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 44.0,
+      "rsi": 54.3,
       "quant_score": 57.37,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "086790": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 52.7,
-      "quant_score": 57.16,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "079550": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 45.1,
-      "quant_score": 55.88,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "298040": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 44.6,
-      "quant_score": 55.79,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -224,8 +214,8 @@
     "055550": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 53.3,
-      "quant_score": 55.73,
+      "rsi": 60.2,
+      "quant_score": 56.96,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -234,18 +224,8 @@
     "071050": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 49.2,
-      "quant_score": 55.19,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "028260": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 53.6,
-      "quant_score": 55.0,
+      "rsi": 53.9,
+      "quant_score": 56.31,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -254,38 +234,8 @@
     "012330": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 50.3,
-      "quant_score": 54.83,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "011070": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 54.7,
-      "quant_score": 54.21,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "064350": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 52.5,
-      "quant_score": 54.14,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "034730": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 54.4,
-      "quant_score": 54.08,
+      "rsi": 54.2,
+      "quant_score": 56.21,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -294,8 +244,48 @@
     "003550": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 45.2,
-      "quant_score": 54.02,
+      "rsi": 51.5,
+      "quant_score": 56.21,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "028260": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 61.6,
+      "quant_score": 55.73,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "064350": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 54.5,
+      "quant_score": 54.75,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "011070": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 62.5,
+      "quant_score": 54.2,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "034730": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 62.0,
+      "quant_score": 54.08,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -304,18 +294,8 @@
     "066570": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 48.6,
+      "rsi": 51.8,
       "quant_score": 53.62,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "007660": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 47.1,
-      "quant_score": 53.59,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -324,48 +304,18 @@
     "039490": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 44.8,
-      "quant_score": 53.13,
+      "rsi": 45.9,
+      "quant_score": 53.39,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
       "is_guru": false
     },
-    "003230": {
+    "007660": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 41.5,
-      "quant_score": 53.04,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "032830": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 56.7,
-      "quant_score": 52.52,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "035420": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 55.2,
-      "quant_score": 52.22,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "006260": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 41.8,
-      "quant_score": 51.88,
+      "rsi": 45.2,
+      "quant_score": 53.23,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -374,28 +324,38 @@
     "017670": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 50.9,
-      "quant_score": 51.87,
+      "rsi": 53.1,
+      "quant_score": 52.85,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
       "is_guru": false
     },
-    "161390": {
+    "006260": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 62.6,
-      "quant_score": 51.86,
+      "rsi": 47.8,
+      "quant_score": 52.54,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
       "is_guru": false
     },
-    "000720": {
+    "032830": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 56.2,
-      "quant_score": 51.72,
+      "rsi": 62.5,
+      "quant_score": 52.52,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "003230": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 41.0,
+      "quant_score": 52.38,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -404,8 +364,18 @@
     "005940": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 49.0,
-      "quant_score": 51.62,
+      "rsi": 52.6,
+      "quant_score": 52.27,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "035420": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 55.5,
+      "quant_score": 51.82,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -414,58 +384,8 @@
     "307950": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 50.5,
+      "rsi": 55.7,
       "quant_score": 51.5,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "064400": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 49.8,
-      "quant_score": 51.46,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "000150": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 58.6,
-      "quant_score": 51.43,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "047040": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 40.0,
-      "quant_score": 51.13,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "180640": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 55.4,
-      "quant_score": 51.05,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "018260": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 52.5,
-      "quant_score": 50.93,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -474,8 +394,38 @@
     "316140": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 51.2,
-      "quant_score": 50.64,
+      "rsi": 58.1,
+      "quant_score": 51.45,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "018260": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 53.0,
+      "quant_score": 51.22,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "047040": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 43.8,
+      "quant_score": 51.13,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "000150": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 51.3,
+      "quant_score": 51.04,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -491,21 +441,51 @@
       "insider_sell_usd": null,
       "is_guru": false
     },
-    "000270": {
+    "138040": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 53.2,
-      "quant_score": 50.13,
+      "rsi": 55.3,
+      "quant_score": 50.3,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
       "is_guru": false
     },
-    "138040": {
+    "000270": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 51.3,
-      "quant_score": 50.09,
+      "rsi": 53.6,
+      "quant_score": 50.18,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "005380": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 51.7,
+      "quant_score": 50.17,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "042660": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 53.9,
+      "quant_score": 50.05,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "011200": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 62.4,
+      "quant_score": 50.04,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -515,67 +495,7 @@
       "signal": "neutral",
       "chips": [],
       "rsi": 38.8,
-      "quant_score": 49.79,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "005380": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 45.0,
-      "quant_score": 49.68,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "078930": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 47.3,
-      "quant_score": 49.4,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "326030": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 43.2,
-      "quant_score": 49.26,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "011200": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 53.1,
-      "quant_score": 48.82,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "000500": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 41.5,
-      "quant_score": 48.67,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "042660": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 45.7,
-      "quant_score": 48.37,
+      "quant_score": 49.8,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -584,18 +504,18 @@
     "006400": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 43.1,
-      "quant_score": 48.29,
+      "rsi": 45.5,
+      "quant_score": 49.13,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
       "is_guru": false
     },
-    "103590": {
+    "267250": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 37.3,
-      "quant_score": 47.69,
+      "rsi": 50.7,
+      "quant_score": 48.84,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -604,8 +524,38 @@
     "024110": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 60.6,
-      "quant_score": 47.43,
+      "rsi": 66.0,
+      "quant_score": 47.99,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "267270": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 49.5,
+      "quant_score": 47.91,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "010140": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 51.3,
+      "quant_score": 47.74,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "000720": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 50.4,
+      "quant_score": 47.71,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -614,7 +564,17 @@
     "068270": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 45.4,
+      "rsi": 47.2,
+      "quant_score": 47.35,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "010950": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 52.4,
       "quant_score": 47.28,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
@@ -631,71 +591,11 @@
       "insider_sell_usd": null,
       "is_guru": false
     },
-    "012450": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 37.0,
-      "quant_score": 46.86,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "241560": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 45.4,
-      "quant_score": 46.72,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "010140": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 43.3,
-      "quant_score": 46.54,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
     "207940": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 36.3,
-      "quant_score": 46.34,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "267250": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 37.2,
-      "quant_score": 46.2,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "267270": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 39.0,
-      "quant_score": 46.07,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "010950": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 49.1,
-      "quant_score": 46.01,
+      "rsi": 43.1,
+      "quant_score": 46.91,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -704,8 +604,18 @@
     "086280": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 44.6,
-      "quant_score": 45.2,
+      "rsi": 48.3,
+      "quant_score": 46.46,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "012450": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 38.0,
+      "quant_score": 46.45,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -714,18 +624,8 @@
     "001440": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 36.2,
-      "quant_score": 44.26,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "047810": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 39.2,
-      "quant_score": 44.12,
+      "rsi": 40.5,
+      "quant_score": 45.4,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -734,8 +634,18 @@
     "005490": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 39.7,
-      "quant_score": 44.03,
+      "rsi": 46.1,
+      "quant_score": 45.13,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "047810": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 44.7,
+      "quant_score": 44.62,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -744,8 +654,8 @@
     "272210": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 42.2,
-      "quant_score": 44.0,
+      "rsi": 46.0,
+      "quant_score": 44.53,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -754,58 +664,8 @@
     "030200": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 46.2,
-      "quant_score": 43.92,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "090430": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 41.0,
-      "quant_score": 42.91,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "005830": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 47.0,
-      "quant_score": 42.46,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "005387": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 43.1,
-      "quant_score": 42.05,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "051910": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 47.7,
-      "quant_score": 41.7,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "034020": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 39.1,
-      "quant_score": 41.17,
+      "rsi": 48.0,
+      "quant_score": 44.15,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -814,18 +674,48 @@
     "003490": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 55.6,
-      "quant_score": 41.1,
+      "rsi": 67.1,
+      "quant_score": 43.6,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
       "is_guru": false
     },
-    "035720": {
+    "005387": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 47.3,
-      "quant_score": 40.86,
+      "rsi": 50.1,
+      "quant_score": 42.92,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "051910": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 52.5,
+      "quant_score": 42.72,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "005830": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 51.0,
+      "quant_score": 42.66,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "034020": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 46.5,
+      "quant_score": 42.32,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -834,8 +724,18 @@
     "000880": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 41.3,
-      "quant_score": 39.88,
+      "rsi": 44.6,
+      "quant_score": 40.73,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "035720": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 45.0,
+      "quant_score": 40.08,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -844,38 +744,8 @@
     "010130": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 34.8,
-      "quant_score": 38.64,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "377300": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 42.7,
-      "quant_score": 38.61,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "000100": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 38.1,
-      "quant_score": 38.15,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "047050": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 36.0,
-      "quant_score": 37.81,
+      "rsi": 40.6,
+      "quant_score": 39.22,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -884,8 +754,28 @@
     "096770": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 35.3,
-      "quant_score": 37.21,
+      "rsi": 45.1,
+      "quant_score": 38.92,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "047050": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 37.4,
+      "quant_score": 38.24,
+      "foreign_buy_days": 0,
+      "insider_buy_usd": null,
+      "insider_sell_usd": null,
+      "is_guru": false
+    },
+    "003670": {
+      "signal": "neutral",
+      "chips": [],
+      "rsi": 45.4,
+      "quant_score": 38.2,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -901,11 +791,11 @@
       "insider_sell_usd": null,
       "is_guru": false
     },
-    "003670": {
+    "009830": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 40.3,
-      "quant_score": 36.39,
+      "rsi": 45.9,
+      "quant_score": 36.94,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
@@ -914,18 +804,8 @@
     "352820": {
       "signal": "neutral",
       "chips": [],
-      "rsi": 47.8,
-      "quant_score": 36.37,
-      "foreign_buy_days": 0,
-      "insider_buy_usd": null,
-      "insider_sell_usd": null,
-      "is_guru": false
-    },
-    "009830": {
-      "signal": "neutral",
-      "chips": [],
-      "rsi": 41.2,
-      "quant_score": 36.11,
+      "rsi": 44.2,
+      "quant_score": 35.55,
       "foreign_buy_days": 0,
       "insider_buy_usd": null,
       "insider_sell_usd": null,
