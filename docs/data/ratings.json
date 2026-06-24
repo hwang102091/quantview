@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T07:08:56+09:00",
+  "updated_at": "2026-06-25T07:11:47+09:00",
   "ratings": {
     "005930": {
       "ticker": "005930",
@@ -3275,7 +3275,7 @@
       "hold": null,
       "sell": null,
       "target": null,
-      "rating": "투자의견",
+      "rating": null,
       "n_analysts": null,
       "rows": []
     },
@@ -3319,7 +3319,7 @@
       "hold": null,
       "sell": null,
       "target": null,
-      "rating": "투자의견",
+      "rating": null,
       "n_analysts": null,
       "rows": []
     },
@@ -6960,7 +6960,7 @@
       "hold": null,
       "sell": null,
       "target": null,
-      "rating": null,
+      "rating": "투자의견",
       "n_analysts": null,
       "rows": []
     },
@@ -28597,7 +28597,7 @@
       "hold": null,
       "sell": null,
       "target": null,
-      "rating": null,
+      "rating": "투자의견",
       "n_analysts": null,
       "rows": []
     },
@@ -51706,9 +51706,9 @@
       "buy": 13,
       "hold": 4,
       "sell": 0,
-      "target": 56.81243,
-      "target_high": 64.0,
-      "target_low": 51.99948,
+      "target": 170.439,
+      "target_high": 192.00192,
+      "target_low": 156.0,
       "rating": "buy",
       "n_analysts": 16,
       "rows": [
@@ -59151,7 +59151,7 @@
       "buy": 38,
       "hold": 4,
       "sell": 1,
-      "target": 1022.9231,
+      "target": 1048.2051,
       "target_high": 1750.0,
       "target_low": 249.0,
       "rating": "strong_buy",
@@ -68647,9 +68647,9 @@
       "buy": 38,
       "hold": 4,
       "sell": 2,
-      "target": 1745.3628,
-      "target_high": 2326.311,
-      "target_low": 880.838,
+      "target": 1741.1996,
+      "target_high": 2320.7622,
+      "target_low": 878.73694,
       "rating": "strong_buy",
       "n_analysts": 15,
       "rows": [
@@ -68697,9 +68697,9 @@
       "buy": 8,
       "hold": 4,
       "sell": 0,
-      "target": 104.73208,
-      "target_high": 110.845955,
-      "target_low": 93.5842,
+      "target": 104.48226,
+      "target_high": 110.58156,
+      "target_low": 93.36097,
       "rating": "buy",
       "n_analysts": 11,
       "rows": [
@@ -68747,9 +68747,9 @@
       "buy": 1,
       "hold": 2,
       "sell": 0,
-      "target": 76.06058,
-      "target_high": 91.05203,
-      "target_low": 68.532394,
+      "target": 75.87914,
+      "target_high": 90.83485,
+      "target_low": 68.36893,
       "rating": "none",
       "n_analysts": 3,
       "rows": [
@@ -68988,9 +68988,9 @@
       "buy": 23,
       "hold": 13,
       "sell": 1,
-      "target": 117.83927,
-      "target_high": 169.86028,
-      "target_low": 86.79868,
+      "target": 117.54473,
+      "target_high": 169.4357,
+      "target_low": 86.58173,
       "rating": "buy",
       "n_analysts": 34,
       "rows": [
