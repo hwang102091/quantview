@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T07:01:54+09:00",
+  "updated_at": "2026-08-05T07:06:28+09:00",
   "ratings": {
     "005930": {
       "ticker": "005930",
@@ -6531,7 +6531,7 @@
       "hold": null,
       "sell": null,
       "target": null,
-      "rating": "투자의견",
+      "rating": null,
       "n_analysts": null,
       "rows": []
     },
@@ -6960,7 +6960,7 @@
       "hold": null,
       "sell": null,
       "target": null,
-      "rating": null,
+      "rating": "투자의견",
       "n_analysts": null,
       "rows": []
     },
@@ -43651,6 +43651,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 1,
+          "buy": 8,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 3
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 0,
           "buy": 8,
           "hold": 7,
@@ -43658,8 +43667,8 @@
           "strongSell": 3
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 8,
           "hold": 7,
@@ -43701,6 +43710,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 4,
+          "hold": 6,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 4,
           "hold": 6,
@@ -43756,7 +43774,7 @@
       "buy": 24,
       "hold": 6,
       "sell": 1,
-      "target": 270.39285,
+      "target": 272.14285,
       "target_high": 328.0,
       "target_low": 200.0,
       "rating": "buy",
@@ -43824,8 +43842,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 2,
-          "buy": 12,
+          "strongBuy": 3,
+          "buy": 11,
           "hold": 13,
           "sell": 0,
           "strongSell": 0
@@ -43833,6 +43851,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 12,
+          "hold": 13,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 14,
           "hold": 10,
@@ -43907,14 +43934,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 5,
-          "buy": 37,
-          "hold": 9,
+          "buy": 36,
+          "hold": 10,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 37,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 36,
           "hold": 10,
@@ -44052,9 +44088,9 @@
       "buy": 14,
       "hold": 7,
       "sell": 0,
-      "target": 342.73685,
+      "target": 343.26315,
       "target_high": 365.0,
-      "target_low": 310.0,
+      "target_low": 314.0,
       "rating": "buy",
       "n_analysts": 19,
       "rows": [
@@ -44072,13 +44108,22 @@
           "period": "-1m",
           "strongBuy": 3,
           "buy": 11,
-          "hold": 9,
+          "hold": 7,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 11,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 11,
           "hold": 9,
@@ -44093,7 +44138,7 @@
       "buy": 23,
       "hold": 20,
       "sell": 2,
-      "target": 158.08974,
+      "target": 158.34615,
       "target_high": 185.0,
       "target_low": 115.0,
       "rating": "buy",
@@ -44111,6 +44156,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 4,
+          "buy": 19,
+          "hold": 20,
+          "sell": 2,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 5,
           "buy": 19,
           "hold": 18,
@@ -44118,8 +44172,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 18,
           "hold": 18,
@@ -44161,6 +44215,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 11,
+          "hold": 9,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 11,
           "hold": 8,
@@ -44245,6 +44308,15 @@
           "period": "-2m",
           "strongBuy": 0,
           "buy": 2,
+          "hold": 12,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 0,
+          "buy": 2,
           "hold": 13,
           "sell": 0,
           "strongSell": 1
@@ -44275,6 +44347,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 2,
+          "buy": 8,
+          "hold": 5,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 3,
           "buy": 8,
           "hold": 4,
@@ -44282,8 +44363,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 8,
           "hold": 4,
@@ -44339,7 +44420,7 @@
       "buy": 9,
       "hold": 5,
       "sell": 0,
-      "target": 79.26923,
+      "target": 78.80769,
       "target_high": 86.0,
       "target_low": 73.0,
       "rating": "buy",
@@ -44359,13 +44440,22 @@
           "period": "-1m",
           "strongBuy": 2,
           "buy": 7,
-          "hold": 4,
+          "hold": 5,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 7,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 7,
           "hold": 5,
@@ -44421,7 +44511,7 @@
       "buy": 58,
       "hold": 6,
       "sell": 0,
-      "target": 426.94965,
+      "target": 428.04056,
       "target_high": 515.0,
       "target_low": 340.0,
       "rating": "strong_buy",
@@ -44439,6 +44529,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 13,
+          "buy": 45,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 14,
           "buy": 44,
           "hold": 7,
@@ -44446,8 +44545,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 14,
           "buy": 44,
           "hold": 7,
@@ -44480,6 +44579,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 13,
+          "buy": 44,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 14,
           "buy": 44,
           "hold": 7,
@@ -44487,8 +44595,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 14,
           "buy": 44,
           "hold": 7,
@@ -44544,7 +44652,7 @@
       "buy": 59,
       "hold": 3,
       "sell": 0,
-      "target": 321.94983,
+      "target": 323.29083,
       "target_high": 400.0,
       "target_low": 207.0,
       "rating": "strong_buy",
@@ -44635,7 +44743,7 @@
       "buy": 11,
       "hold": 6,
       "sell": 0,
-      "target": 121.625,
+      "target": 121.75,
       "target_high": 137.0,
       "target_low": 108.0,
       "rating": "buy",
@@ -44654,14 +44762,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 1,
+          "buy": 10,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 1,
           "buy": 9,
           "hold": 6,
           "sell": 0,
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 9,
           "hold": 7,
@@ -44676,9 +44793,9 @@
       "buy": 13,
       "hold": 11,
       "sell": 0,
-      "target": 145.5238,
+      "target": 145.09525,
       "target_high": 173.0,
-      "target_low": 133.0,
+      "target_low": 129.0,
       "rating": "buy",
       "n_analysts": 21,
       "rows": [
@@ -44694,8 +44811,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 2,
-          "buy": 11,
+          "strongBuy": 3,
+          "buy": 10,
           "hold": 11,
           "sell": 0,
           "strongSell": 0
@@ -44703,6 +44820,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 11,
+          "hold": 11,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 11,
           "hold": 10,
@@ -44717,7 +44843,7 @@
       "buy": 15,
       "hold": 14,
       "sell": 1,
-      "target": 374.5428,
+      "target": 374.4628,
       "target_high": 450.0,
       "target_low": 315.0,
       "rating": "buy",
@@ -44735,6 +44861,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 5,
+          "buy": 10,
+          "hold": 14,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 10,
           "hold": 15,
@@ -44742,8 +44877,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 10,
           "hold": 15,
@@ -44872,6 +45007,15 @@
           "hold": 9,
           "sell": 0,
           "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 0,
+          "buy": 3,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 1
         }
       ]
     },
@@ -44992,6 +45136,15 @@
           "period": "-2m",
           "strongBuy": 4,
           "buy": 10,
+          "hold": 17,
+          "sell": 2,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 4,
+          "buy": 10,
           "hold": 18,
           "sell": 2,
           "strongSell": 1
@@ -45086,7 +45239,7 @@
       "buy": 13,
       "hold": 7,
       "sell": 2,
-      "target": 401.6316,
+      "target": 402.4737,
       "target_high": 445.0,
       "target_low": 339.0,
       "rating": "buy",
@@ -45104,6 +45257,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 3,
+          "buy": 10,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 2
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 10,
           "hold": 6,
@@ -45111,8 +45273,8 @@
           "strongSell": 2
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 10,
           "hold": 6,
@@ -45186,8 +45348,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 3,
-          "buy": 10,
+          "strongBuy": 4,
+          "buy": 11,
           "hold": 6,
           "sell": 0,
           "strongSell": 0
@@ -45195,6 +45357,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 10,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 10,
           "hold": 6,
@@ -45207,9 +45378,9 @@
       "ticker": "AAPL",
       "market": "us",
       "buy": 28,
-      "hold": 14,
-      "sell": 4,
-      "target": 323.28195,
+      "hold": 13,
+      "sell": 5,
+      "target": 324.01367,
       "target_high": 400.0,
       "target_low": 215.0,
       "rating": "buy",
@@ -45220,13 +45391,22 @@
           "period": "0m",
           "strongBuy": 6,
           "buy": 22,
+          "hold": 13,
+          "sell": 2,
+          "strongSell": 3
+        },
+        {
+          "index": 1,
+          "period": "-1m",
+          "strongBuy": 6,
+          "buy": 22,
           "hold": 14,
           "sell": 2,
           "strongSell": 2
         },
         {
-          "index": 1,
-          "period": "-1m",
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 6,
           "buy": 22,
           "hold": 16,
@@ -45234,8 +45414,8 @@
           "strongSell": 2
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 7,
           "buy": 23,
           "hold": 15,
@@ -45250,7 +45430,7 @@
       "buy": 32,
       "hold": 7,
       "sell": 0,
-      "target": 627.65717,
+      "target": 629.0857,
       "target_high": 900.0,
       "target_low": 358.0,
       "rating": "strong_buy",
@@ -45270,13 +45450,22 @@
           "period": "-1m",
           "strongBuy": 4,
           "buy": 28,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 4,
+          "buy": 28,
           "hold": 6,
           "sell": 0,
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 28,
           "hold": 8,
@@ -45291,7 +45480,7 @@
       "buy": 29,
       "hold": 3,
       "sell": 0,
-      "target": 654.6,
+      "target": 656.2,
       "target_high": 860.0,
       "target_low": 406.0,
       "rating": "strong_buy",
@@ -45318,6 +45507,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 7,
+          "buy": 22,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 7,
           "buy": 21,
           "hold": 4,
@@ -45373,7 +45571,7 @@
       "buy": 10,
       "hold": 9,
       "sell": 1,
-      "target": 111.60526,
+      "target": 111.39474,
       "target_high": 134.0,
       "target_low": 95.0,
       "rating": "buy",
@@ -45400,6 +45598,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 7,
+          "hold": 9,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 7,
           "hold": 9,
@@ -45455,8 +45662,8 @@
       "buy": 11,
       "hold": 7,
       "sell": 0,
-      "target": 141.61111,
-      "target_high": 162.0,
+      "target": 144.77779,
+      "target_high": 168.0,
       "target_low": 122.0,
       "rating": "buy",
       "n_analysts": 18,
@@ -45473,6 +45680,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 4,
+          "buy": 7,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 5,
           "buy": 7,
           "hold": 5,
@@ -45480,8 +45696,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 7,
           "hold": 6,
@@ -45523,6 +45739,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 7,
+          "buy": 22,
+          "hold": 1,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 8,
           "buy": 22,
           "hold": 0,
@@ -45537,7 +45762,7 @@
       "buy": 16,
       "hold": 6,
       "sell": 0,
-      "target": 287.22223,
+      "target": 289.6111,
       "target_high": 388.0,
       "target_low": 250.0,
       "rating": "buy",
@@ -45556,14 +45781,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 4,
-          "buy": 13,
-          "hold": 5,
+          "buy": 12,
+          "hold": 6,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 13,
+          "hold": 5,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 11,
           "hold": 7,
@@ -45760,6 +45994,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 0,
+          "buy": 4,
+          "hold": 12,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 1,
           "buy": 4,
           "hold": 11,
@@ -45767,8 +46010,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 4,
           "hold": 11,
@@ -45783,7 +46026,7 @@
       "buy": 23,
       "hold": 4,
       "sell": 0,
-      "target": 3961.9565,
+      "target": 3950.5217,
       "target_high": 4800.0,
       "target_low": 3200.0,
       "rating": "strong_buy",
@@ -45810,6 +46053,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 18,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 17,
           "hold": 5,
@@ -45928,11 +46180,20 @@
           "buy": 10,
           "hold": 2,
           "sell": 0,
-          "strongSell": 0
+          "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 8,
+          "buy": 10,
+          "hold": 2,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 8,
           "buy": 10,
           "hold": 2,
@@ -45947,7 +46208,7 @@
       "buy": 18,
       "hold": 4,
       "sell": 1,
-      "target": 71.27273,
+      "target": 71.45455,
       "target_high": 85.0,
       "target_low": 51.0,
       "rating": "buy",
@@ -45965,6 +46226,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 4,
+          "buy": 14,
+          "hold": 4,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 3,
           "buy": 13,
           "hold": 5,
@@ -45972,8 +46242,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 13,
           "hold": 5,
@@ -46029,7 +46299,7 @@
       "buy": 20,
       "hold": 4,
       "sell": 0,
-      "target": 68.68182,
+      "target": 68.77273,
       "target_high": 75.0,
       "target_low": 62.0,
       "rating": "buy",
@@ -46047,6 +46317,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 5,
+          "buy": 15,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 6,
           "buy": 15,
           "hold": 3,
@@ -46054,8 +46333,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 16,
           "hold": 2,
@@ -46070,7 +46349,7 @@
       "buy": 2,
       "hold": 12,
       "sell": 0,
-      "target": 27.29167,
+      "target": 27.54167,
       "target_high": 40.0,
       "target_low": 19.0,
       "rating": "hold",
@@ -46088,6 +46367,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 1,
+          "buy": 1,
+          "hold": 12,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 0,
           "buy": 2,
           "hold": 11,
@@ -46095,8 +46383,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 2,
           "hold": 11,
@@ -46192,12 +46480,12 @@
       "market": "us",
       "buy": 5,
       "hold": 18,
-      "sell": 1,
-      "target": 80.15789,
+      "sell": 2,
+      "target": 80.15,
       "target_high": 90.0,
       "target_low": 62.0,
       "rating": "hold",
-      "n_analysts": 19,
+      "n_analysts": 20,
       "rows": [
         {
           "index": 0,
@@ -46206,11 +46494,20 @@
           "buy": 5,
           "hold": 18,
           "sell": 1,
-          "strongSell": 0
+          "strongSell": 1
         },
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 0,
+          "buy": 5,
+          "hold": 18,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 0,
           "buy": 6,
           "hold": 17,
@@ -46218,8 +46515,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 6,
           "hold": 17,
@@ -46275,7 +46572,7 @@
       "buy": 23,
       "hold": 12,
       "sell": 1,
-      "target": 234.34903,
+      "target": 235.31677,
       "target_high": 300.0,
       "target_low": 157.0,
       "rating": "buy",
@@ -46294,14 +46591,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 3,
-          "buy": 18,
-          "hold": 14,
+          "buy": 20,
+          "hold": 12,
           "sell": 1,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 18,
+          "hold": 14,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 18,
           "hold": 15,
@@ -46375,6 +46681,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 3,
+          "buy": 9,
+          "hold": 11,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 9,
           "hold": 9,
@@ -46382,8 +46697,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 9,
           "hold": 9,
@@ -46398,7 +46713,7 @@
       "buy": 38,
       "hold": 7,
       "sell": 0,
-      "target": 93.225,
+      "target": 93.025,
       "target_high": 115.0,
       "target_low": 65.0,
       "rating": "buy",
@@ -46416,7 +46731,7 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 9,
+          "strongBuy": 10,
           "buy": 28,
           "hold": 7,
           "sell": 0,
@@ -46425,6 +46740,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 9,
+          "buy": 28,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 8,
           "buy": 29,
           "hold": 7,
@@ -46449,18 +46773,27 @@
     "BA": {
       "ticker": "BA",
       "market": "us",
-      "buy": 21,
+      "buy": 22,
       "hold": 6,
-      "sell": 1,
-      "target": 270.65384,
+      "sell": 0,
+      "target": 273.34616,
       "target_high": 300.0,
-      "target_low": 230.0,
+      "target_low": 246.0,
       "rating": "buy",
       "n_analysts": 26,
       "rows": [
         {
           "index": 0,
           "period": "0m",
+          "strongBuy": 5,
+          "buy": 17,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 1,
+          "period": "-1m",
           "strongBuy": 4,
           "buy": 17,
           "hold": 6,
@@ -46468,8 +46801,8 @@
           "strongSell": 1
         },
         {
-          "index": 1,
-          "period": "-1m",
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 17,
           "hold": 5,
@@ -46477,8 +46810,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 17,
           "hold": 5,
@@ -46493,7 +46826,7 @@
       "buy": 30,
       "hold": 8,
       "sell": 0,
-      "target": 224.42223,
+      "target": 224.72221,
       "target_high": 298.0,
       "target_low": 175.0,
       "rating": "buy",
@@ -46511,6 +46844,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 5,
+          "buy": 25,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 6,
           "buy": 24,
           "hold": 7,
@@ -46518,8 +46860,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 24,
           "hold": 7,
@@ -46552,6 +46894,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 8,
+          "buy": 18,
+          "hold": 5,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 7,
           "buy": 20,
           "hold": 4,
@@ -46559,8 +46910,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 7,
           "buy": 21,
           "hold": 4,
@@ -46573,26 +46924,35 @@
       "ticker": "BMY",
       "market": "us",
       "buy": 9,
-      "hold": 17,
+      "hold": 18,
       "sell": 1,
-      "target": 64.91304,
+      "target": 65.66667,
       "target_high": 80.0,
       "target_low": 40.0,
       "rating": "hold",
-      "n_analysts": 23,
+      "n_analysts": 24,
       "rows": [
         {
           "index": 0,
           "period": "0m",
-          "strongBuy": 4,
-          "buy": 5,
-          "hold": 17,
+          "strongBuy": 3,
+          "buy": 6,
+          "hold": 18,
           "sell": 1,
           "strongSell": 0
         },
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 3,
+          "buy": 6,
+          "hold": 18,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 6,
           "hold": 17,
@@ -46600,8 +46960,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 6,
           "hold": 18,
@@ -46698,7 +47058,7 @@
       "buy": 4,
       "hold": 14,
       "sell": 1,
-      "target": 75.6875,
+      "target": 76.4375,
       "target_high": 90.0,
       "target_low": 56.0,
       "rating": "hold",
@@ -46717,14 +47077,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 2,
+          "buy": 2,
+          "hold": 14,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 2,
           "buy": 3,
           "hold": 14,
           "sell": 0,
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 3,
           "hold": 14,
@@ -46739,7 +47108,7 @@
       "buy": 2,
       "hold": 13,
       "sell": 4,
-      "target": 27.67059,
+      "target": 27.78824,
       "target_high": 35.0,
       "target_low": 20.0,
       "rating": "hold",
@@ -46760,12 +47129,21 @@
           "strongBuy": 1,
           "buy": 1,
           "hold": 13,
-          "sell": 1,
+          "sell": 2,
           "strongSell": 2
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 1,
+          "hold": 13,
+          "sell": 1,
+          "strongSell": 2
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 1,
           "hold": 11,
@@ -46807,6 +47185,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 8,
+          "hold": 10,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 8,
           "hold": 10,
@@ -46862,9 +47249,9 @@
       "buy": 12,
       "hold": 10,
       "sell": 0,
-      "target": 73.6,
+      "target": 74.2,
       "target_high": 91.0,
-      "target_low": 58.0,
+      "target_low": 60.0,
       "rating": "buy",
       "n_analysts": 20,
       "rows": [
@@ -46889,6 +47276,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 7,
+          "hold": 10,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 7,
           "hold": 11,
@@ -46994,9 +47390,9 @@
       "buy": 7,
       "hold": 15,
       "sell": 2,
-      "target": 116.32955,
+      "target": 116.96591,
       "target_high": 134.0,
-      "target_low": 102.0,
+      "target_low": 103.0,
       "rating": "hold",
       "n_analysts": 22,
       "rows": [
@@ -47013,14 +47409,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 1,
-          "buy": 7,
-          "hold": 14,
+          "buy": 6,
+          "hold": 15,
           "sell": 1,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 7,
+          "hold": 14,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 7,
           "hold": 14,
@@ -47063,6 +47468,15 @@
           "index": 2,
           "period": "-2m",
           "strongBuy": 0,
+          "buy": 1,
+          "hold": 13,
+          "sell": 2,
+          "strongSell": 4
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 0,
           "buy": 2,
           "hold": 13,
           "sell": 2,
@@ -47076,7 +47490,7 @@
       "buy": 20,
       "hold": 4,
       "sell": 0,
-      "target": 256.72726,
+      "target": 256.95456,
       "target_high": 300.0,
       "target_low": 214.0,
       "rating": "buy",
@@ -47095,14 +47509,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 5,
-          "buy": 14,
-          "hold": 5,
+          "buy": 15,
+          "hold": 4,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 14,
+          "hold": 5,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 14,
           "hold": 4,
@@ -47217,6 +47640,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 2,
+          "buy": 12,
+          "hold": 10,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 1,
           "buy": 12,
           "hold": 11,
@@ -47224,8 +47656,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 12,
           "hold": 11,
@@ -47363,7 +47795,7 @@
       "buy": 3,
       "hold": 11,
       "sell": 3,
-      "target": 314.0,
+      "target": 316.0,
       "target_high": 380.0,
       "target_low": 258.0,
       "rating": "hold",
@@ -47381,6 +47813,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 2,
+          "buy": 1,
+          "hold": 11,
+          "sell": 2,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 3,
           "buy": 1,
           "hold": 10,
@@ -47388,8 +47829,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 1,
           "hold": 10,
@@ -47527,7 +47968,7 @@
       "buy": 8,
       "hold": 12,
       "sell": 1,
-      "target": 70.66667,
+      "target": 71.27778,
       "target_high": 85.0,
       "target_low": 56.0,
       "rating": "buy",
@@ -47545,6 +47986,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 2,
+          "buy": 6,
+          "hold": 12,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 1,
           "buy": 6,
           "hold": 13,
@@ -47552,8 +48002,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 6,
           "hold": 12,
@@ -47668,6 +48118,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 3,
+          "buy": 9,
+          "hold": 3,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 10,
           "hold": 2,
@@ -47675,8 +48134,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 10,
           "hold": 3,
@@ -47688,20 +48147,20 @@
     "SCHW": {
       "ticker": "SCHW",
       "market": "us",
-      "buy": 17,
+      "buy": 18,
       "hold": 3,
       "sell": 1,
-      "target": 124.47368,
+      "target": 125.0,
       "target_high": 145.0,
       "target_low": 91.0,
       "rating": "buy",
-      "n_analysts": 19,
+      "n_analysts": 20,
       "rows": [
         {
           "index": 0,
           "period": "0m",
           "strongBuy": 7,
-          "buy": 10,
+          "buy": 11,
           "hold": 3,
           "sell": 0,
           "strongSell": 1
@@ -47710,14 +48169,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 7,
-          "buy": 11,
-          "hold": 2,
+          "buy": 10,
+          "hold": 3,
           "sell": 0,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 7,
+          "buy": 11,
+          "hold": 2,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 8,
           "buy": 11,
           "hold": 2,
@@ -47761,6 +48229,15 @@
           "period": "-2m",
           "strongBuy": 0,
           "buy": 5,
+          "hold": 11,
+          "sell": 3,
+          "strongSell": 2
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 0,
+          "buy": 5,
           "hold": 10,
           "sell": 3,
           "strongSell": 2
@@ -47773,9 +48250,9 @@
       "buy": 20,
       "hold": 4,
       "sell": 1,
-      "target": 215.0,
+      "target": 216.75,
       "target_high": 236.0,
-      "target_low": 170.0,
+      "target_low": 175.0,
       "rating": "buy",
       "n_analysts": 24,
       "rows": [
@@ -47791,6 +48268,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 6,
+          "buy": 14,
+          "hold": 4,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 5,
           "buy": 13,
           "hold": 5,
@@ -47798,8 +48284,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 13,
           "hold": 6,
@@ -47874,14 +48360,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 2,
-          "buy": 8,
-          "hold": 12,
+          "buy": 7,
+          "hold": 13,
           "sell": 0,
           "strongSell": 3
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 8,
+          "hold": 12,
+          "sell": 0,
+          "strongSell": 3
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 8,
           "hold": 13,
@@ -47896,9 +48391,9 @@
       "buy": 10,
       "hold": 9,
       "sell": 2,
-      "target": 104.36842,
+      "target": 105.36842,
       "target_high": 115.0,
-      "target_low": 77.0,
+      "target_low": 78.0,
       "rating": "buy",
       "n_analysts": 19,
       "rows": [
@@ -47923,6 +48418,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 8,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 2
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 8,
           "hold": 9,
@@ -47978,7 +48482,7 @@
       "buy": 20,
       "hold": 4,
       "sell": 0,
-      "target": 343.375,
+      "target": 342.625,
       "target_high": 400.0,
       "target_low": 290.0,
       "rating": "buy",
@@ -47987,8 +48491,8 @@
         {
           "index": 0,
           "period": "0m",
-          "strongBuy": 5,
-          "buy": 15,
+          "strongBuy": 6,
+          "buy": 14,
           "hold": 4,
           "sell": 0,
           "strongSell": 0
@@ -48005,6 +48509,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 15,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 15,
           "hold": 4,
@@ -48079,14 +48592,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 2,
-          "buy": 7,
-          "hold": 10,
+          "buy": 8,
+          "hold": 9,
           "sell": 1,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 7,
+          "hold": 10,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 7,
           "hold": 10,
@@ -48099,11 +48621,11 @@
       "ticker": "CSCO",
       "market": "us",
       "buy": 17,
-      "hold": 8,
-      "sell": 1,
-      "target": 130.22726,
+      "hold": 9,
+      "sell": 0,
+      "target": 131.36365,
       "target_high": 150.0,
-      "target_low": 90.0,
+      "target_low": 112.0,
       "rating": "buy",
       "n_analysts": 22,
       "rows": [
@@ -48112,9 +48634,9 @@
           "period": "0m",
           "strongBuy": 4,
           "buy": 13,
-          "hold": 8,
+          "hold": 9,
           "sell": 0,
-          "strongSell": 1
+          "strongSell": 0
         },
         {
           "index": 1,
@@ -48133,6 +48655,15 @@
           "hold": 8,
           "sell": 0,
           "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 4,
+          "buy": 13,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 1
         }
       ]
     },
@@ -48142,7 +48673,7 @@
       "buy": 16,
       "hold": 5,
       "sell": 0,
-      "target": 155.15,
+      "target": 154.5,
       "target_high": 176.0,
       "target_low": 129.0,
       "rating": "buy",
@@ -48161,7 +48692,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 5,
-          "buy": 12,
+          "buy": 11,
           "hold": 5,
           "sell": 0,
           "strongSell": 0
@@ -48169,6 +48700,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 12,
+          "hold": 5,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 13,
           "hold": 4,
@@ -48180,19 +48720,19 @@
     "CFG": {
       "ticker": "CFG",
       "market": "us",
-      "buy": 15,
+      "buy": 14,
       "hold": 3,
       "sell": 0,
-      "target": 80.58824,
+      "target": 80.6875,
       "target_high": 90.0,
       "target_low": 70.0,
       "rating": "buy",
-      "n_analysts": 17,
+      "n_analysts": 16,
       "rows": [
         {
           "index": 0,
           "period": "0m",
-          "strongBuy": 5,
+          "strongBuy": 4,
           "buy": 10,
           "hold": 3,
           "sell": 0,
@@ -48201,6 +48741,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 4,
+          "buy": 10,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 5,
           "buy": 11,
           "hold": 2,
@@ -48208,8 +48757,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 11,
           "hold": 1,
@@ -48243,14 +48792,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 0,
-          "buy": 2,
-          "hold": 13,
+          "buy": 1,
+          "hold": 14,
           "sell": 2,
           "strongSell": 2
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 0,
+          "buy": 2,
+          "hold": 13,
+          "sell": 2,
+          "strongSell": 2
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 2,
           "hold": 13,
@@ -48283,8 +48841,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 4,
-          "buy": 5,
+          "strongBuy": 5,
+          "buy": 4,
           "hold": 4,
           "sell": 1,
           "strongSell": 2
@@ -48292,6 +48850,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 5,
+          "hold": 4,
+          "sell": 1,
+          "strongSell": 2
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 3,
           "hold": 7,
@@ -48325,14 +48892,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 3,
-          "buy": 5,
-          "hold": 7,
+          "buy": 4,
+          "hold": 8,
           "sell": 0,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 5,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 6,
           "hold": 6,
@@ -48388,7 +48964,7 @@
       "buy": 13,
       "hold": 16,
       "sell": 0,
-      "target": 63.102,
+      "target": 64.102,
       "target_high": 84.0,
       "target_low": 42.0,
       "rating": "buy",
@@ -48415,6 +48991,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 11,
+          "hold": 16,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 11,
           "hold": 16,
@@ -48470,7 +49055,7 @@
       "buy": 22,
       "hold": 9,
       "sell": 3,
-      "target": 201.45068,
+      "target": 200.07138,
       "target_high": 330.0,
       "target_low": 95.0,
       "rating": "buy",
@@ -48489,14 +49074,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 3,
-          "buy": 18,
-          "hold": 10,
+          "buy": 19,
+          "hold": 9,
           "sell": 2,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 18,
+          "hold": 10,
+          "sell": 2,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 18,
           "hold": 10,
@@ -48511,9 +49105,9 @@
       "buy": 13,
       "hold": 8,
       "sell": 0,
-      "target": 98.0,
+      "target": 98.95,
       "target_high": 110.0,
-      "target_low": 85.0,
+      "target_low": 87.0,
       "rating": "buy",
       "n_analysts": 20,
       "rows": [
@@ -48540,6 +49134,15 @@
           "period": "-2m",
           "strongBuy": 6,
           "buy": 7,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 6,
+          "buy": 7,
           "hold": 7,
           "sell": 0,
           "strongSell": 0
@@ -48552,7 +49155,7 @@
       "buy": 9,
       "hold": 16,
       "sell": 3,
-      "target": 30.09091,
+      "target": 30.08136,
       "target_high": 44.0,
       "target_low": 21.0,
       "rating": "hold",
@@ -48572,13 +49175,22 @@
           "period": "-1m",
           "strongBuy": 1,
           "buy": 8,
-          "hold": 15,
+          "hold": 16,
           "sell": 2,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 8,
+          "hold": 15,
+          "sell": 2,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 5,
           "hold": 16,
@@ -48675,7 +49287,7 @@
       "buy": 18,
       "hold": 7,
       "sell": 0,
-      "target": 141.0,
+      "target": 141.2,
       "target_high": 183.0,
       "target_low": 115.0,
       "rating": "buy",
@@ -48694,7 +49306,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 5,
-          "buy": 14,
+          "buy": 13,
           "hold": 7,
           "sell": 0,
           "strongSell": 0
@@ -48702,6 +49314,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 14,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 13,
           "hold": 9,
@@ -48777,13 +49398,22 @@
           "period": "-1m",
           "strongBuy": 3,
           "buy": 11,
-          "hold": 7,
+          "hold": 8,
           "sell": 0,
           "strongSell": 2
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 11,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 2
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 11,
           "hold": 7,
@@ -48798,7 +49428,7 @@
       "buy": 20,
       "hold": 3,
       "sell": 0,
-      "target": 352.86096,
+      "target": 351.90857,
       "target_high": 441.0,
       "target_low": 296.0,
       "rating": "buy",
@@ -48825,6 +49455,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 6,
+          "buy": 14,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 13,
           "hold": 2,
@@ -48907,6 +49546,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 5,
+          "hold": 5,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 3,
           "hold": 5,
@@ -48918,21 +49566,21 @@
     "GLW": {
       "ticker": "GLW",
       "market": "us",
-      "buy": 11,
-      "hold": 5,
+      "buy": 12,
+      "hold": 4,
       "sell": 0,
-      "target": 193.4,
+      "target": 191.4,
       "target_high": 226.0,
       "target_low": 129.0,
-      "rating": "buy",
+      "rating": "strong_buy",
       "n_analysts": 15,
       "rows": [
         {
           "index": 0,
           "period": "0m",
           "strongBuy": 0,
-          "buy": 11,
-          "hold": 5,
+          "buy": 12,
+          "hold": 4,
           "sell": 0,
           "strongSell": 0
         },
@@ -48941,13 +49589,22 @@
           "period": "-1m",
           "strongBuy": 0,
           "buy": 11,
-          "hold": 4,
-          "sell": 1,
+          "hold": 5,
+          "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 0,
+          "buy": 11,
+          "hold": 4,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 10,
           "hold": 5,
@@ -49003,9 +49660,9 @@
       "buy": 15,
       "hold": 6,
       "sell": 0,
-      "target": 92.15,
+      "target": 92.4,
       "target_high": 103.0,
-      "target_low": 77.0,
+      "target_low": 78.0,
       "rating": "buy",
       "n_analysts": 20,
       "rows": [
@@ -49071,6 +49728,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 3,
+          "buy": 9,
+          "hold": 8,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 12,
           "hold": 4,
@@ -49078,8 +49744,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 11,
           "hold": 3,
@@ -49112,6 +49778,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 4,
+          "buy": 19,
+          "hold": 14,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 3,
           "buy": 19,
           "hold": 13,
@@ -49119,8 +49794,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 19,
           "hold": 13,
@@ -49135,7 +49810,7 @@
       "buy": 19,
       "hold": 2,
       "sell": 0,
-      "target": 140.28864,
+      "target": 138.78864,
       "target_high": 165.0,
       "target_low": 105.0,
       "rating": "strong_buy",
@@ -49162,6 +49837,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 16,
+          "hold": 2,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 16,
           "hold": 2,
@@ -49338,20 +50022,20 @@
       "ticker": "CVS",
       "market": "us",
       "buy": 24,
-      "hold": 4,
+      "hold": 3,
       "sell": 0,
-      "target": 113.5,
+      "target": 114.88,
       "target_high": 148.0,
-      "target_low": 79.0,
+      "target_low": 94.0,
       "rating": "strong_buy",
-      "n_analysts": 26,
+      "n_analysts": 25,
       "rows": [
         {
           "index": 0,
           "period": "0m",
           "strongBuy": 6,
           "buy": 18,
-          "hold": 4,
+          "hold": 3,
           "sell": 0,
           "strongSell": 0
         },
@@ -49367,6 +50051,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 6,
+          "buy": 18,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 18,
           "hold": 4,
@@ -49399,8 +50092,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 4,
-          "buy": 18,
+          "strongBuy": 5,
+          "buy": 17,
           "hold": 4,
           "sell": 0,
           "strongSell": 0
@@ -49408,6 +50101,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 18,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 19,
           "hold": 2,
@@ -49463,7 +50165,7 @@
       "buy": 42,
       "hold": 3,
       "sell": 2,
-      "target": 269.965,
+      "target": 274.22586,
       "target_high": 330.0,
       "target_low": 139.0,
       "rating": "strong_buy",
@@ -49482,14 +50184,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 10,
-          "buy": 33,
-          "hold": 1,
+          "buy": 32,
+          "hold": 3,
           "sell": 1,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 10,
+          "buy": 33,
+          "hold": 1,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 10,
           "buy": 34,
           "hold": 2,
@@ -49507,7 +50218,7 @@
       "target": 208.57143,
       "target_high": 270.0,
       "target_low": 145.0,
-      "rating": "hold",
+      "rating": "none",
       "n_analysts": 7,
       "rows": [
         {
@@ -49736,6 +50447,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 21,
+          "hold": 2,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 19,
           "hold": 4,
@@ -49750,7 +50470,7 @@
       "buy": 25,
       "hold": 3,
       "sell": 0,
-      "target": 92.8,
+      "target": 93.44,
       "target_high": 115.0,
       "target_low": 79.0,
       "rating": "strong_buy",
@@ -49778,6 +50498,15 @@
           "index": 2,
           "period": "-2m",
           "strongBuy": 3,
+          "buy": 22,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 3,
           "buy": 21,
           "hold": 3,
           "sell": 0,
@@ -49791,7 +50520,7 @@
       "buy": 25,
       "hold": 4,
       "sell": 0,
-      "target": 230.32143,
+      "target": 230.2857,
       "target_high": 272.0,
       "target_low": 199.0,
       "rating": "strong_buy",
@@ -49818,6 +50547,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 20,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 19,
           "hold": 5,
@@ -49873,7 +50611,7 @@
       "buy": 11,
       "hold": 19,
       "sell": 1,
-      "target": 131.41379,
+      "target": 131.75862,
       "target_high": 175.0,
       "target_low": 90.0,
       "rating": "buy",
@@ -49900,6 +50638,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 8,
+          "hold": 19,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 8,
           "hold": 17,
@@ -49987,6 +50734,15 @@
           "hold": 14,
           "sell": 0,
           "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 1,
+          "buy": 1,
+          "hold": 14,
+          "sell": 0,
+          "strongSell": 0
         }
       ]
     },
@@ -50034,10 +50790,10 @@
     "DASH": {
       "ticker": "DASH",
       "market": "us",
-      "buy": 35,
+      "buy": 36,
       "hold": 9,
       "sell": 0,
-      "target": 245.2,
+      "target": 245.05714,
       "target_high": 350.0,
       "target_low": 172.0,
       "rating": "buy",
@@ -50047,7 +50803,7 @@
           "index": 0,
           "period": "0m",
           "strongBuy": 9,
-          "buy": 26,
+          "buy": 27,
           "hold": 9,
           "sell": 0,
           "strongSell": 0
@@ -50056,8 +50812,8 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 9,
-          "buy": 26,
-          "hold": 8,
+          "buy": 27,
+          "hold": 9,
           "sell": 0,
           "strongSell": 0
         },
@@ -50065,7 +50821,16 @@
           "index": 2,
           "period": "-2m",
           "strongBuy": 9,
-          "buy": 26,
+          "buy": 27,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 9,
+          "buy": 27,
           "hold": 9,
           "sell": 0,
           "strongSell": 0
@@ -50219,7 +50984,7 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 1,
+          "strongBuy": 2,
           "buy": 9,
           "hold": 7,
           "sell": 0,
@@ -50228,6 +50993,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 9,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 9,
           "hold": 6,
@@ -50310,6 +51084,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 11,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 11,
           "hold": 3,
@@ -50321,10 +51104,10 @@
     "ETN": {
       "ticker": "ETN",
       "market": "us",
-      "buy": 22,
-      "hold": 4,
+      "buy": 23,
+      "hold": 3,
       "sell": 1,
-      "target": 457.7516,
+      "target": 464.5916,
       "target_high": 534.0,
       "target_low": 333.0,
       "rating": "buy",
@@ -50334,8 +51117,8 @@
           "index": 0,
           "period": "0m",
           "strongBuy": 6,
-          "buy": 16,
-          "hold": 4,
+          "buy": 17,
+          "hold": 3,
           "sell": 0,
           "strongSell": 1
         },
@@ -50372,9 +51155,9 @@
       "ticker": "EBAY",
       "market": "us",
       "buy": 11,
-      "hold": 18,
-      "sell": 2,
-      "target": 111.31481,
+      "hold": 17,
+      "sell": 3,
+      "target": 110.83333,
       "target_high": 135.0,
       "target_low": 67.0,
       "rating": "hold",
@@ -50385,13 +51168,22 @@
           "period": "0m",
           "strongBuy": 5,
           "buy": 6,
-          "hold": 18,
-          "sell": 2,
+          "hold": 17,
+          "sell": 3,
           "strongSell": 0
         },
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 5,
+          "buy": 6,
+          "hold": 18,
+          "sell": 2,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 5,
           "buy": 5,
           "hold": 19,
@@ -50399,8 +51191,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 5,
           "hold": 19,
@@ -50484,14 +51276,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 5,
-          "buy": 14,
-          "hold": 8,
+          "buy": 15,
+          "hold": 6,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 14,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 14,
           "hold": 7,
@@ -50506,7 +51307,7 @@
       "buy": 5,
       "hold": 9,
       "sell": 3,
-      "target": 76.75,
+      "target": 76.82143,
       "target_high": 86.0,
       "target_low": 62.0,
       "rating": "hold",
@@ -50524,6 +51325,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 0,
+          "buy": 5,
+          "hold": 9,
+          "sell": 3,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 1,
           "buy": 5,
           "hold": 8,
@@ -50531,8 +51341,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 5,
           "hold": 7,
@@ -50702,6 +51512,15 @@
           "hold": 3,
           "sell": 0,
           "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 0,
+          "buy": 7,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
         }
       ]
     },
@@ -50710,7 +51529,7 @@
       "market": "us",
       "buy": 19,
       "hold": 8,
-      "sell": 2,
+      "sell": 1,
       "target": 163.48111,
       "target_high": 203.0,
       "target_low": 104.0,
@@ -50724,13 +51543,13 @@
           "buy": 15,
           "hold": 8,
           "sell": 1,
-          "strongSell": 1
+          "strongSell": 0
         },
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 3,
-          "buy": 16,
+          "strongBuy": 4,
+          "buy": 15,
           "hold": 8,
           "sell": 1,
           "strongSell": 1
@@ -50738,6 +51557,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 16,
+          "hold": 8,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 15,
           "hold": 9,
@@ -50802,7 +51630,7 @@
       "buy": 13,
       "hold": 17,
       "sell": 0,
-      "target": 157.88889,
+      "target": 158.33333,
       "target_high": 196.0,
       "target_low": 127.0,
       "rating": "buy",
@@ -50831,6 +51659,15 @@
           "period": "-2m",
           "strongBuy": 1,
           "buy": 12,
+          "hold": 17,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 1,
+          "buy": 12,
           "hold": 18,
           "sell": 0,
           "strongSell": 0
@@ -50843,8 +51680,8 @@
       "buy": 11,
       "hold": 8,
       "sell": 0,
-      "target": 135.23529,
-      "target_high": 235.0,
+      "target": 133.94118,
+      "target_high": 225.0,
       "target_low": 83.0,
       "rating": "buy",
       "n_analysts": 17,
@@ -50861,8 +51698,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 2,
-          "buy": 9,
+          "strongBuy": 3,
+          "buy": 8,
           "hold": 8,
           "sell": 0,
           "strongSell": 0
@@ -50870,6 +51707,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 9,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 8,
           "hold": 8,
@@ -50881,21 +51727,21 @@
     "EQT": {
       "ticker": "EQT",
       "market": "us",
-      "buy": 20,
-      "hold": 5,
+      "buy": 21,
+      "hold": 4,
       "sell": 0,
-      "target": 67.08,
+      "target": 67.68,
       "target_high": 81.0,
       "target_low": 52.0,
-      "rating": "buy",
+      "rating": "strong_buy",
       "n_analysts": 25,
       "rows": [
         {
           "index": 0,
           "period": "0m",
-          "strongBuy": 3,
+          "strongBuy": 4,
           "buy": 17,
-          "hold": 5,
+          "hold": 4,
           "sell": 0,
           "strongSell": 0
         },
@@ -50903,14 +51749,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 3,
-          "buy": 16,
-          "hold": 6,
+          "buy": 17,
+          "hold": 5,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 16,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 15,
           "hold": 6,
@@ -50943,6 +51798,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 4,
+          "buy": 12,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 5,
           "buy": 12,
           "hold": 7,
@@ -50950,8 +51814,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 12,
           "hold": 7,
@@ -50966,7 +51830,7 @@
       "buy": 26,
       "hold": 6,
       "sell": 0,
-      "target": 1220.138,
+      "target": 1222.3103,
       "target_high": 1350.0,
       "target_low": 1060.0,
       "rating": "buy",
@@ -50985,14 +51849,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 5,
+          "buy": 21,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 5,
           "buy": 20,
           "hold": 5,
           "sell": 0,
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 20,
           "hold": 5,
@@ -51071,7 +51944,7 @@
       "buy": 10,
       "hold": 14,
       "sell": 2,
-      "target": 301.43,
+      "target": 302.59,
       "target_high": 352.0,
       "target_low": 239.0,
       "rating": "hold",
@@ -51089,6 +51962,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 5,
+          "buy": 5,
+          "hold": 14,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 4,
           "hold": 16,
@@ -51096,8 +51978,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 3,
           "hold": 17,
@@ -51139,6 +52021,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 6,
+          "buy": 7,
+          "hold": 14,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 6,
           "hold": 13,
@@ -51153,7 +52044,7 @@
       "buy": 6,
       "hold": 10,
       "sell": 0,
-      "target": 405.06668,
+      "target": 406.46667,
       "target_high": 480.0,
       "target_low": 365.0,
       "rating": "buy",
@@ -51180,6 +52071,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 3,
+          "hold": 10,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 3,
           "hold": 10,
@@ -51255,13 +52155,22 @@
           "period": "-1m",
           "strongBuy": 0,
           "buy": 4,
-          "hold": 9,
+          "hold": 10,
           "sell": 1,
           "strongSell": 2
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 0,
+          "buy": 4,
+          "hold": 9,
+          "sell": 1,
+          "strongSell": 2
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 5,
           "hold": 7,
@@ -51314,10 +52223,10 @@
     "EXE": {
       "ticker": "EXE",
       "market": "us",
-      "buy": 20,
-      "hold": 6,
+      "buy": 21,
+      "hold": 5,
       "sell": 0,
-      "target": 124.16,
+      "target": 126.04,
       "target_high": 160.0,
       "target_low": 93.0,
       "rating": "buy",
@@ -51326,9 +52235,9 @@
         {
           "index": 0,
           "period": "0m",
-          "strongBuy": 3,
+          "strongBuy": 4,
           "buy": 17,
-          "hold": 6,
+          "hold": 5,
           "sell": 0,
           "strongSell": 0
         },
@@ -51349,6 +52258,15 @@
           "hold": 6,
           "sell": 0,
           "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 3,
+          "buy": 17,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
         }
       ]
     },
@@ -51358,7 +52276,7 @@
       "buy": 17,
       "hold": 20,
       "sell": 1,
-      "target": 291.3143,
+      "target": 293.7143,
       "target_high": 409.0,
       "target_low": 240.0,
       "rating": "buy",
@@ -51377,14 +52295,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 0,
+          "buy": 17,
+          "hold": 20,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 0,
           "buy": 16,
           "hold": 21,
           "sell": 0,
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 16,
           "hold": 21,
@@ -51440,7 +52367,7 @@
       "buy": 9,
       "hold": 12,
       "sell": 0,
-      "target": 157.4,
+      "target": 157.6,
       "target_high": 178.0,
       "target_low": 140.0,
       "rating": "buy",
@@ -51458,8 +52385,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 3,
-          "buy": 6,
+          "strongBuy": 4,
+          "buy": 5,
           "hold": 12,
           "sell": 0,
           "strongSell": 0
@@ -51467,6 +52394,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 6,
+          "hold": 12,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 6,
           "hold": 11,
@@ -51481,7 +52417,7 @@
       "buy": 10,
       "hold": 14,
       "sell": 1,
-      "target": 167.09091,
+      "target": 167.0,
       "target_high": 185.0,
       "target_low": 130.0,
       "rating": "buy",
@@ -51500,14 +52436,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 3,
-          "buy": 8,
-          "hold": 12,
+          "buy": 7,
+          "hold": 14,
           "sell": 1,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 8,
+          "hold": 12,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 7,
           "hold": 13,
@@ -51581,6 +52526,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 0,
+          "buy": 2,
+          "hold": 10,
+          "sell": 4,
+          "strongSell": 2
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 1,
           "buy": 2,
           "hold": 9,
@@ -51588,8 +52542,8 @@
           "strongSell": 2
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 2,
           "hold": 10,
@@ -51601,21 +52555,21 @@
     "FICO": {
       "ticker": "FICO",
       "market": "us",
-      "buy": 16,
-      "hold": 4,
+      "buy": 15,
+      "hold": 5,
       "sell": 1,
-      "target": 1504.7524,
+      "target": 1489.4763,
       "target_high": 1950.0,
       "target_low": 707.0,
       "rating": "buy",
-      "n_analysts": 20,
+      "n_analysts": 19,
       "rows": [
         {
           "index": 0,
           "period": "0m",
           "strongBuy": 5,
-          "buy": 11,
-          "hold": 4,
+          "buy": 10,
+          "hold": 5,
           "sell": 1,
           "strongSell": 0
         },
@@ -51695,7 +52649,7 @@
       "buy": 13,
       "hold": 7,
       "sell": 0,
-      "target": 131.45,
+      "target": 131.95,
       "target_high": 149.0,
       "target_low": 118.0,
       "rating": "buy",
@@ -51714,7 +52668,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 4,
-          "buy": 8,
+          "buy": 9,
           "hold": 7,
           "sell": 0,
           "strongSell": 0
@@ -51722,6 +52676,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 8,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 7,
           "hold": 7,
@@ -51845,6 +52808,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 11,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 11,
           "hold": 4,
@@ -51859,7 +52831,7 @@
       "buy": 22,
       "hold": 12,
       "sell": 2,
-      "target": 255.72897,
+      "target": 256.14276,
       "target_high": 330.0,
       "target_low": 150.0,
       "rating": "buy",
@@ -52010,14 +52982,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 3,
-          "buy": 3,
-          "hold": 15,
+          "buy": 5,
+          "hold": 13,
           "sell": 1,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 3,
+          "hold": 15,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 3,
           "hold": 16,
@@ -52052,13 +53033,22 @@
           "period": "-1m",
           "strongBuy": 1,
           "buy": 10,
+          "hold": 29,
+          "sell": 3,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 1,
+          "buy": 10,
           "hold": 27,
           "sell": 4,
           "strongSell": 2
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 10,
           "hold": 29,
@@ -52168,8 +53158,8 @@
       "buy": 3,
       "hold": 6,
       "sell": 2,
-      "target": 34.81818,
-      "target_high": 40.0,
+      "target": 35.09091,
+      "target_high": 41.0,
       "target_low": 26.0,
       "rating": "hold",
       "n_analysts": 11,
@@ -52195,6 +53185,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 0,
+          "buy": 3,
+          "hold": 6,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 3,
           "hold": 5,
@@ -52300,6 +53299,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 0,
+          "buy": 3,
+          "hold": 10,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 1,
           "buy": 3,
           "hold": 9,
@@ -52307,8 +53315,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 3,
           "hold": 10,
@@ -52433,6 +53441,15 @@
           "index": 2,
           "period": "-2m",
           "strongBuy": 6,
+          "buy": 24,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 6,
           "buy": 23,
           "hold": 7,
           "sell": 0,
@@ -52519,9 +53536,9 @@
       "buy": 13,
       "hold": 10,
       "sell": 1,
-      "target": 414.16763,
+      "target": 416.0724,
       "target_high": 465.0,
-      "target_low": 308.0,
+      "target_low": 319.0,
       "rating": "buy",
       "n_analysts": 21,
       "rows": [
@@ -52546,6 +53563,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 10,
+          "hold": 10,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 9,
           "hold": 10,
@@ -52620,14 +53646,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 7,
-          "buy": 13,
-          "hold": 5,
+          "buy": 15,
+          "hold": 4,
           "sell": 1,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 7,
+          "buy": 13,
+          "hold": 5,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 7,
           "buy": 13,
           "hold": 5,
@@ -52642,8 +53677,8 @@
       "buy": 5,
       "hold": 5,
       "sell": 0,
-      "target": 137.875,
-      "target_high": 165.0,
+      "target": 140.375,
+      "target_high": 170.0,
       "target_low": 122.0,
       "rating": "buy",
       "n_analysts": 8,
@@ -52660,6 +53695,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 1,
+          "buy": 4,
+          "hold": 5,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 1,
           "buy": 4,
           "hold": 5,
@@ -52702,6 +53746,15 @@
           "index": 2,
           "period": "-2m",
           "strongBuy": 6,
+          "buy": 16,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 6,
           "buy": 18,
           "hold": 7,
           "sell": 0,
@@ -52733,8 +53786,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 0,
-          "buy": 12,
+          "strongBuy": 2,
+          "buy": 11,
           "hold": 19,
           "sell": 1,
           "strongSell": 1
@@ -52742,6 +53795,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 0,
+          "buy": 12,
+          "hold": 19,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 12,
           "hold": 19,
@@ -52797,7 +53859,7 @@
       "buy": 8,
       "hold": 9,
       "sell": 0,
-      "target": 106.86667,
+      "target": 104.8,
       "target_high": 170.0,
       "target_low": 80.0,
       "rating": "buy",
@@ -52815,6 +53877,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 3,
+          "buy": 5,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 2,
           "buy": 6,
           "hold": 8,
@@ -52822,8 +53893,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 6,
           "hold": 8,
@@ -52838,7 +53909,7 @@
       "buy": 7,
       "hold": 16,
       "sell": 2,
-      "target": 1140.15,
+      "target": 1141.65,
       "target_high": 1325.0,
       "target_low": 730.0,
       "rating": "hold",
@@ -52858,13 +53929,22 @@
           "period": "-1m",
           "strongBuy": 1,
           "buy": 6,
-          "hold": 15,
-          "sell": 2,
+          "hold": 16,
+          "sell": 1,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 6,
+          "hold": 15,
+          "sell": 2,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 6,
           "hold": 16,
@@ -52897,6 +53977,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 6,
+          "buy": 15,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 5,
           "buy": 15,
           "hold": 5,
@@ -52904,8 +53993,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 15,
           "hold": 4,
@@ -53029,6 +54118,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 1,
+          "buy": 13,
+          "hold": 10,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 2,
           "buy": 13,
           "hold": 9,
@@ -53036,8 +54134,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 13,
           "hold": 9,
@@ -53093,7 +54191,7 @@
       "buy": 9,
       "hold": 7,
       "sell": 1,
-      "target": 89.3125,
+      "target": 89.625,
       "target_high": 100.0,
       "target_low": 64.0,
       "rating": "buy",
@@ -53134,7 +54232,7 @@
       "buy": 8,
       "hold": 14,
       "sell": 1,
-      "target": 206.33333,
+      "target": 206.42857,
       "target_high": 250.0,
       "target_low": 166.0,
       "rating": "buy",
@@ -53152,8 +54250,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 3,
-          "buy": 5,
+          "strongBuy": 2,
+          "buy": 6,
           "hold": 14,
           "sell": 1,
           "strongSell": 0
@@ -53161,6 +54259,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 5,
+          "hold": 14,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 5,
           "hold": 14,
@@ -53235,14 +54342,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 4,
-          "buy": 9,
-          "hold": 11,
+          "buy": 10,
+          "hold": 10,
           "sell": 0,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 9,
+          "hold": 11,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 9,
           "hold": 11,
@@ -53284,6 +54400,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 17,
+          "hold": 15,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 18,
           "hold": 14,
@@ -53563,14 +54688,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 1,
-          "buy": 7,
-          "hold": 16,
+          "buy": 11,
+          "hold": 12,
           "sell": 2,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 7,
+          "hold": 16,
+          "sell": 2,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 7,
           "hold": 16,
@@ -53603,6 +54737,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 2,
+          "buy": 10,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 3,
           "buy": 12,
           "hold": 4,
@@ -53610,8 +54753,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 12,
           "hold": 3,
@@ -53626,8 +54769,8 @@
       "buy": 6,
       "hold": 6,
       "sell": 0,
-      "target": 362.75,
-      "target_high": 431.0,
+      "target": 363.41666,
+      "target_high": 439.0,
       "target_low": 280.0,
       "rating": "buy",
       "n_analysts": 12,
@@ -53644,6 +54787,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 1,
+          "buy": 5,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 1,
           "buy": 4,
           "hold": 7,
@@ -53822,8 +54974,8 @@
       "buy": 11,
       "hold": 15,
       "sell": 1,
-      "target": 122.95652,
-      "target_high": 150.0,
+      "target": 124.95652,
+      "target_high": 155.0,
       "target_low": 86.0,
       "rating": "buy",
       "n_analysts": 23,
@@ -53842,13 +54994,22 @@
           "period": "-1m",
           "strongBuy": 2,
           "buy": 9,
-          "hold": 14,
+          "hold": 15,
           "sell": 1,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 9,
+          "hold": 14,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 9,
           "hold": 15,
@@ -53860,11 +55021,11 @@
     "IR": {
       "ticker": "IR",
       "market": "us",
-      "buy": 6,
-      "hold": 8,
+      "buy": 7,
+      "hold": 7,
       "sell": 0,
-      "target": 94.38462,
-      "target_high": 115.0,
+      "target": 94.61538,
+      "target_high": 109.0,
       "target_low": 80.0,
       "rating": "buy",
       "n_analysts": 13,
@@ -53873,8 +55034,8 @@
           "index": 0,
           "period": "0m",
           "strongBuy": 0,
-          "buy": 6,
-          "hold": 8,
+          "buy": 7,
+          "hold": 7,
           "sell": 0,
           "strongSell": 0
         },
@@ -53995,8 +55156,8 @@
       "buy": 9,
       "hold": 2,
       "sell": 1,
-      "target": 106.96667,
-      "target_high": 122.0,
+      "target": 106.3,
+      "target_high": 121.0,
       "target_low": 70.0,
       "rating": "buy",
       "n_analysts": 12,
@@ -54015,13 +55176,22 @@
           "period": "-1m",
           "strongBuy": 2,
           "buy": 7,
-          "hold": 1,
+          "hold": 2,
           "sell": 0,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 7,
+          "hold": 1,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 6,
           "hold": 1,
@@ -54055,7 +55225,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 5,
-          "buy": 10,
+          "buy": 8,
           "hold": 1,
           "sell": 0,
           "strongSell": 0
@@ -54063,6 +55233,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 10,
+          "hold": 1,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 9,
           "hold": 1,
@@ -54165,10 +55344,10 @@
     "INTU": {
       "ticker": "INTU",
       "market": "us",
-      "buy": 25,
-      "hold": 8,
+      "buy": 24,
+      "hold": 9,
       "sell": 2,
-      "target": 456.47272,
+      "target": 454.65454,
       "target_high": 921.0,
       "target_low": 250.0,
       "rating": "buy",
@@ -54178,8 +55357,8 @@
           "index": 0,
           "period": "0m",
           "strongBuy": 5,
-          "buy": 20,
-          "hold": 8,
+          "buy": 19,
+          "hold": 9,
           "sell": 1,
           "strongSell": 1
         },
@@ -54187,14 +55366,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 5,
+          "buy": 20,
+          "hold": 8,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 5,
           "buy": 22,
           "hold": 6,
           "sell": 1,
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 22,
           "hold": 6,
@@ -54227,6 +55415,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 7,
+          "buy": 16,
+          "hold": 9,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 6,
           "buy": 16,
           "hold": 9,
@@ -54234,8 +55431,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 16,
           "hold": 9,
@@ -54270,13 +55467,22 @@
           "period": "-1m",
           "strongBuy": 1,
           "buy": 3,
-          "hold": 8,
+          "hold": 9,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 3,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 3,
           "hold": 8,
@@ -54291,7 +55497,7 @@
       "buy": 13,
       "hold": 12,
       "sell": 0,
-      "target": 32.82609,
+      "target": 32.91304,
       "target_high": 38.0,
       "target_low": 29.0,
       "rating": "buy",
@@ -54319,6 +55525,15 @@
           "index": 2,
           "period": "-2m",
           "strongBuy": 6,
+          "buy": 7,
+          "hold": 12,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 6,
           "buy": 6,
           "hold": 13,
           "sell": 0,
@@ -54332,7 +55547,7 @@
       "buy": 19,
       "hold": 2,
       "sell": 0,
-      "target": 272.94443,
+      "target": 275.16666,
       "target_high": 300.0,
       "target_low": 240.0,
       "rating": "strong_buy",
@@ -54350,6 +55565,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 4,
+          "buy": 15,
+          "hold": 2,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 3,
           "buy": 16,
           "hold": 3,
@@ -54357,8 +55581,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 17,
           "hold": 2,
@@ -54578,7 +55802,7 @@
       "buy": 16,
       "hold": 6,
       "sell": 1,
-      "target": 271.04544,
+      "target": 271.72726,
       "target_high": 305.0,
       "target_low": 190.0,
       "rating": "buy",
@@ -54597,14 +55821,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 5,
-          "buy": 10,
-          "hold": 7,
+          "buy": 11,
+          "hold": 6,
           "sell": 1,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 10,
+          "hold": 7,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 10,
           "hold": 8,
@@ -54638,7 +55871,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 1,
-          "buy": 10,
+          "buy": 9,
           "hold": 8,
           "sell": 0,
           "strongSell": 2
@@ -54646,6 +55879,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 10,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 2
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 10,
           "hold": 9,
@@ -54660,7 +55902,7 @@
       "buy": 12,
       "hold": 11,
       "sell": 0,
-      "target": 371.85,
+      "target": 372.65,
       "target_high": 420.0,
       "target_low": 305.0,
       "rating": "buy",
@@ -54678,6 +55920,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 3,
+          "buy": 9,
+          "hold": 11,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 8,
           "hold": 12,
@@ -54685,8 +55936,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 8,
           "hold": 12,
@@ -54811,6 +56062,15 @@
           "index": 2,
           "period": "-2m",
           "strongBuy": 2,
+          "buy": 8,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 2,
           "buy": 7,
           "hold": 9,
           "sell": 0,
@@ -54925,7 +56185,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 2,
-          "buy": 8,
+          "buy": 7,
           "hold": 15,
           "sell": 0,
           "strongSell": 0
@@ -54933,6 +56193,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 8,
+          "hold": 15,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 7,
           "hold": 15,
@@ -54979,6 +56248,15 @@
           "hold": 12,
           "sell": 0,
           "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 2,
+          "buy": 9,
+          "hold": 12,
+          "sell": 0,
+          "strongSell": 0
         }
       ]
     },
@@ -54988,7 +56266,7 @@
       "buy": 19,
       "hold": 3,
       "sell": 0,
-      "target": 125.579,
+      "target": 126.126,
       "target_high": 147.0,
       "target_low": 105.0,
       "rating": "buy",
@@ -55006,7 +56284,7 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 6,
+          "strongBuy": 7,
           "buy": 12,
           "hold": 3,
           "sell": 0,
@@ -55015,6 +56293,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 6,
+          "buy": 12,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 7,
           "buy": 12,
           "hold": 2,
@@ -55152,7 +56439,7 @@
       "buy": 13,
       "hold": 5,
       "sell": 0,
-      "target": 365.375,
+      "target": 364.5,
       "target_high": 443.0,
       "target_low": 285.0,
       "rating": "buy",
@@ -55170,8 +56457,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 3,
-          "buy": 13,
+          "strongBuy": 1,
+          "buy": 12,
           "hold": 5,
           "sell": 0,
           "strongSell": 0
@@ -55179,6 +56466,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 13,
+          "hold": 5,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 13,
           "hold": 5,
@@ -55193,7 +56489,7 @@
       "buy": 13,
       "hold": 5,
       "sell": 0,
-      "target": 332.4375,
+      "target": 335.0,
       "target_high": 385.0,
       "target_low": 270.0,
       "rating": "buy",
@@ -55212,7 +56508,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 2,
-          "buy": 12,
+          "buy": 11,
           "hold": 5,
           "sell": 0,
           "strongSell": 0
@@ -55220,6 +56516,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 12,
+          "hold": 5,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 12,
           "hold": 4,
@@ -55254,13 +56559,22 @@
           "period": "-1m",
           "strongBuy": 4,
           "buy": 25,
-          "hold": 5,
-          "sell": 1,
+          "hold": 6,
+          "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 25,
+          "hold": 5,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 25,
           "hold": 6,
@@ -55272,8 +56586,8 @@
     "LVS": {
       "ticker": "LVS",
       "market": "us",
-      "buy": 14,
-      "hold": 6,
+      "buy": 13,
+      "hold": 7,
       "sell": 0,
       "target": 59.06842,
       "target_high": 71.5,
@@ -55284,15 +56598,24 @@
         {
           "index": 0,
           "period": "0m",
-          "strongBuy": 3,
+          "strongBuy": 2,
           "buy": 11,
-          "hold": 6,
+          "hold": 7,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 2,
+          "buy": 11,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 3,
           "buy": 12,
           "hold": 5,
@@ -55300,8 +56623,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 12,
           "hold": 6,
@@ -55457,6 +56780,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 5,
+          "buy": 17,
+          "hold": 4,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 6,
           "buy": 17,
           "hold": 5,
@@ -55464,8 +56796,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 18,
           "hold": 5,
@@ -55477,11 +56809,11 @@
     "LIN": {
       "ticker": "LIN",
       "market": "us",
-      "buy": 20,
-      "hold": 6,
+      "buy": 21,
+      "hold": 5,
       "sell": 1,
-      "target": 547.08,
-      "target_high": 622.0,
+      "target": 548.0,
+      "target_high": 612.0,
       "target_low": 400.0,
       "rating": "buy",
       "n_analysts": 25,
@@ -55489,9 +56821,9 @@
         {
           "index": 0,
           "period": "0m",
-          "strongBuy": 4,
+          "strongBuy": 5,
           "buy": 16,
-          "hold": 6,
+          "hold": 5,
           "sell": 1,
           "strongSell": 0
         },
@@ -55580,7 +56912,7 @@
       "buy": 7,
       "hold": 13,
       "sell": 1,
-      "target": 628.2105,
+      "target": 629.5263,
       "target_high": 756.0,
       "target_low": 503.0,
       "rating": "hold",
@@ -55599,14 +56931,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 2,
-          "buy": 4,
-          "hold": 14,
+          "buy": 5,
+          "hold": 13,
           "sell": 1,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 4,
+          "hold": 14,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 4,
           "hold": 14,
@@ -55661,6 +57002,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 19,
+          "hold": 10,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 19,
           "hold": 10,
@@ -55734,6 +57084,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 5,
+          "buy": 16,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 16,
           "hold": 5,
@@ -55741,8 +57100,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 15,
           "hold": 5,
@@ -55754,21 +57113,21 @@
     "LYB": {
       "ticker": "LYB",
       "market": "us",
-      "buy": 6,
-      "hold": 9,
+      "buy": 7,
+      "hold": 8,
       "sell": 3,
-      "target": 67.11765,
+      "target": 68.64706,
       "target_high": 95.0,
-      "target_low": 48.0,
+      "target_low": 56.0,
       "rating": "hold",
       "n_analysts": 17,
       "rows": [
         {
           "index": 0,
           "period": "0m",
-          "strongBuy": 3,
+          "strongBuy": 4,
           "buy": 3,
-          "hold": 9,
+          "hold": 8,
           "sell": 2,
           "strongSell": 1
         },
@@ -55807,7 +57166,7 @@
       "buy": 4,
       "hold": 15,
       "sell": 1,
-      "target": 255.80556,
+      "target": 255.97221,
       "target_high": 300.0,
       "target_low": 224.0,
       "rating": "hold",
@@ -55826,14 +57185,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 1,
-          "buy": 5,
-          "hold": 13,
+          "buy": 3,
+          "hold": 15,
           "sell": 1,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 5,
+          "hold": 13,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 5,
           "hold": 13,
@@ -55875,6 +57243,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 6,
+          "hold": 7,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 6,
           "hold": 7,
@@ -55889,7 +57266,7 @@
       "buy": 12,
       "hold": 12,
       "sell": 2,
-      "target": 384.83334,
+      "target": 380.875,
       "target_high": 449.0,
       "target_low": 272.0,
       "rating": "buy",
@@ -55901,8 +57278,8 @@
           "strongBuy": 1,
           "buy": 11,
           "hold": 12,
-          "sell": 1,
-          "strongSell": 1
+          "sell": 2,
+          "strongSell": 0
         },
         {
           "index": 1,
@@ -55916,6 +57293,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 11,
+          "hold": 12,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 11,
           "hold": 12,
@@ -55971,7 +57357,7 @@
       "buy": 14,
       "hold": 8,
       "sell": 1,
-      "target": 670.087,
+      "target": 663.73914,
       "target_high": 800.0,
       "target_low": 440.0,
       "rating": "buy",
@@ -56021,7 +57407,7 @@
       "buy": 6,
       "hold": 13,
       "sell": 1,
-      "target": 80.82353,
+      "target": 80.64706,
       "target_high": 96.0,
       "target_low": 68.0,
       "rating": "buy",
@@ -56040,14 +57426,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 0,
-          "buy": 7,
-          "hold": 12,
+          "buy": 6,
+          "hold": 13,
           "sell": 0,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 0,
+          "buy": 7,
+          "hold": 12,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 7,
           "hold": 12,
@@ -56080,7 +57475,7 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 8,
+          "strongBuy": 9,
           "buy": 29,
           "hold": 3,
           "sell": 0,
@@ -56089,6 +57484,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 8,
+          "buy": 29,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 7,
           "buy": 29,
           "hold": 3,
@@ -56267,7 +57671,7 @@
       "buy": 19,
       "hold": 8,
       "sell": 1,
-      "target": 135.1923,
+      "target": 135.38461,
       "target_high": 155.0,
       "target_low": 105.0,
       "rating": "buy",
@@ -56287,13 +57691,22 @@
           "period": "-1m",
           "strongBuy": 4,
           "buy": 15,
-          "hold": 9,
+          "hold": 8,
           "sell": 0,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 15,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 15,
           "hold": 10,
@@ -56308,7 +57721,7 @@
       "buy": 55,
       "hold": 7,
       "sell": 0,
-      "target": 768.58105,
+      "target": 759.40564,
       "target_high": 1000.0,
       "target_low": 580.0,
       "rating": "strong_buy",
@@ -56327,14 +57740,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 8,
-          "buy": 49,
-          "hold": 6,
+          "buy": 47,
+          "hold": 7,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 8,
+          "buy": 49,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 8,
           "buy": 49,
           "hold": 7,
@@ -56390,8 +57812,8 @@
       "buy": 5,
       "hold": 6,
       "sell": 1,
-      "target": 1414.3636,
-      "target_high": 1580.0,
+      "target": 1468.909,
+      "target_high": 1600.0,
       "target_low": 1200.0,
       "rating": "buy",
       "n_analysts": 11,
@@ -56460,13 +57882,22 @@
           "period": "-1m",
           "strongBuy": 1,
           "buy": 8,
-          "hold": 10,
-          "sell": 3,
+          "hold": 11,
+          "sell": 2,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 8,
+          "hold": 10,
+          "sell": 3,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 10,
           "hold": 8,
@@ -56508,6 +57939,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 17,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 17,
           "hold": 5,
@@ -56519,20 +57959,20 @@
     "MU": {
       "ticker": "MU",
       "market": "us",
-      "buy": 40,
+      "buy": 41,
       "hold": 5,
       "sell": 0,
-      "target": 1522.2618,
+      "target": 1507.7906,
       "target_high": 2200.0,
       "target_low": 361.0,
       "rating": "strong_buy",
-      "n_analysts": 42,
+      "n_analysts": 43,
       "rows": [
         {
           "index": 0,
           "period": "0m",
           "strongBuy": 9,
-          "buy": 31,
+          "buy": 32,
           "hold": 5,
           "sell": 0,
           "strongSell": 0
@@ -56542,13 +57982,22 @@
           "period": "-1m",
           "strongBuy": 9,
           "buy": 31,
+          "hold": 5,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 9,
+          "buy": 31,
           "hold": 4,
           "sell": 0,
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 9,
           "buy": 30,
           "hold": 4,
@@ -56560,20 +58009,20 @@
     "MSFT": {
       "ticker": "MSFT",
       "market": "us",
-      "buy": 54,
+      "buy": 53,
       "hold": 3,
       "sell": 0,
-      "target": 563.0463,
+      "target": 562.72644,
       "target_high": 870.0,
       "target_low": 400.0,
       "rating": "strong_buy",
-      "n_analysts": 54,
+      "n_analysts": 53,
       "rows": [
         {
           "index": 0,
           "period": "0m",
           "strongBuy": 14,
-          "buy": 40,
+          "buy": 39,
           "hold": 3,
           "sell": 0,
           "strongSell": 0
@@ -56581,8 +58030,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 13,
-          "buy": 41,
+          "strongBuy": 14,
+          "buy": 40,
           "hold": 3,
           "sell": 0,
           "strongSell": 0
@@ -56590,6 +58039,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 13,
+          "buy": 41,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 12,
           "buy": 41,
           "hold": 3,
@@ -56604,8 +58062,8 @@
       "buy": 9,
       "hold": 14,
       "sell": 3,
-      "target": 143.08,
-      "target_high": 162.0,
+      "target": 143.24,
+      "target_high": 160.0,
       "target_low": 121.0,
       "rating": "hold",
       "n_analysts": 25,
@@ -56623,14 +58081,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 2,
-          "buy": 8,
-          "hold": 12,
+          "buy": 7,
+          "hold": 14,
           "sell": 1,
           "strongSell": 2
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 8,
+          "hold": 12,
+          "sell": 1,
+          "strongSell": 2
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 8,
           "hold": 12,
@@ -56645,7 +58112,7 @@
       "buy": 4,
       "hold": 16,
       "sell": 3,
-      "target": 49.47368,
+      "target": 50.84211,
       "target_high": 79.0,
       "target_low": 25.0,
       "rating": "hold",
@@ -56663,6 +58130,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 2,
+          "buy": 2,
+          "hold": 16,
+          "sell": 1,
+          "strongSell": 2
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 1,
           "buy": 2,
           "hold": 17,
@@ -56670,8 +58146,8 @@
           "strongSell": 3
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 2,
           "hold": 16,
@@ -56850,9 +58326,9 @@
       "buy": 17,
       "hold": 7,
       "sell": 0,
-      "target": 558.8095,
+      "target": 560.4762,
       "target_high": 610.0,
-      "target_low": 500.0,
+      "target_low": 505.0,
       "rating": "buy",
       "n_analysts": 21,
       "rows": [
@@ -56869,7 +58345,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 4,
-          "buy": 12,
+          "buy": 13,
           "hold": 7,
           "sell": 0,
           "strongSell": 0
@@ -56877,6 +58353,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 12,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 12,
           "hold": 7,
@@ -56891,7 +58376,7 @@
       "buy": 11,
       "hold": 13,
       "sell": 1,
-      "target": 236.38095,
+      "target": 236.61905,
       "target_high": 262.0,
       "target_low": 184.0,
       "rating": "buy",
@@ -56910,14 +58395,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 2,
+          "buy": 9,
+          "hold": 13,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 2,
           "buy": 8,
           "hold": 13,
           "sell": 1,
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 8,
           "hold": 14,
@@ -57033,7 +58527,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 4,
-          "buy": 11,
+          "buy": 12,
           "hold": 1,
           "sell": 0,
           "strongSell": 1
@@ -57041,6 +58535,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 11,
+          "hold": 1,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 11,
           "hold": 1,
@@ -57075,13 +58578,22 @@
           "period": "-1m",
           "strongBuy": 6,
           "buy": 8,
+          "hold": 2,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 6,
+          "buy": 8,
           "hold": 3,
           "sell": 0,
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 8,
           "hold": 3,
@@ -57197,14 +58709,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 5,
-          "buy": 13,
-          "hold": 3,
+          "buy": 15,
+          "hold": 2,
           "sell": 0,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 13,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 13,
           "hold": 3,
@@ -57543,6 +59064,15 @@
           "hold": 9,
           "sell": 0,
           "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 4,
+          "buy": 10,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 0
         }
       ]
     },
@@ -57552,11 +59082,11 @@
       "buy": 11,
       "hold": 16,
       "sell": 0,
-      "target": 20.91667,
+      "target": 21.0,
       "target_high": 32.0,
       "target_low": 15.0,
       "rating": "buy",
-      "n_analysts": 24,
+      "n_analysts": 25,
       "rows": [
         {
           "index": 0,
@@ -57570,6 +59100,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 1,
+          "buy": 10,
+          "hold": 16,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 0,
           "buy": 12,
           "hold": 14,
@@ -57577,8 +59116,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 10,
           "hold": 12,
@@ -57625,6 +59164,15 @@
           "hold": 2,
           "sell": 0,
           "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 3,
+          "buy": 11,
+          "hold": 2,
+          "sell": 0,
+          "strongSell": 1
         }
       ]
     },
@@ -57634,8 +59182,8 @@
       "buy": 14,
       "hold": 3,
       "sell": 0,
-      "target": 280.3125,
-      "target_high": 303.0,
+      "target": 283.5625,
+      "target_high": 305.0,
       "target_low": 231.0,
       "rating": "buy",
       "n_analysts": 16,
@@ -57654,13 +59202,22 @@
           "period": "-1m",
           "strongBuy": 3,
           "buy": 11,
-          "hold": 2,
-          "sell": 1,
+          "hold": 3,
+          "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 11,
+          "hold": 2,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 10,
           "hold": 3,
@@ -57754,10 +59311,10 @@
     "NXPI": {
       "ticker": "NXPI",
       "market": "us",
-      "buy": 23,
-      "hold": 6,
+      "buy": 22,
+      "hold": 7,
       "sell": 1,
-      "target": 312.31033,
+      "target": 311.10345,
       "target_high": 400.0,
       "target_low": 190.0,
       "rating": "buy",
@@ -57767,8 +59324,8 @@
           "index": 0,
           "period": "0m",
           "strongBuy": 6,
-          "buy": 17,
-          "hold": 6,
+          "buy": 16,
+          "hold": 7,
           "sell": 1,
           "strongSell": 0
         },
@@ -57784,6 +59341,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 6,
+          "buy": 17,
+          "hold": 6,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 7,
           "buy": 18,
           "hold": 6,
@@ -57837,8 +59403,8 @@
       "ticker": "OXY",
       "market": "us",
       "buy": 9,
-      "hold": 14,
-      "sell": 1,
+      "hold": 15,
+      "sell": 0,
       "target": 64.52174,
       "target_high": 75.0,
       "target_low": 55.0,
@@ -57850,13 +59416,22 @@
           "period": "0m",
           "strongBuy": 2,
           "buy": 7,
+          "hold": 15,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 1,
+          "period": "-1m",
+          "strongBuy": 2,
+          "buy": 7,
           "hold": 14,
           "sell": 0,
           "strongSell": 1
         },
         {
-          "index": 1,
-          "period": "-1m",
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 2,
           "buy": 6,
           "hold": 14,
@@ -57864,8 +59439,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 6,
           "hold": 15,
@@ -57921,8 +59496,8 @@
       "buy": 8,
       "hold": 4,
       "sell": 1,
-      "target": 102.0,
-      "target_high": 138.0,
+      "target": 102.08333,
+      "target_high": 139.0,
       "target_low": 77.0,
       "rating": "buy",
       "n_analysts": 12,
@@ -57949,6 +59524,15 @@
           "index": 2,
           "period": "-2m",
           "strongBuy": 3,
+          "buy": 5,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 3,
           "buy": 4,
           "hold": 4,
           "sell": 0,
@@ -57962,11 +59546,11 @@
       "buy": 11,
       "hold": 18,
       "sell": 0,
-      "target": 113.12,
+      "target": 113.625,
       "target_high": 150.0,
       "target_low": 85.0,
       "rating": "buy",
-      "n_analysts": 25,
+      "n_analysts": 24,
       "rows": [
         {
           "index": 0,
@@ -57990,6 +59574,15 @@
           "index": 2,
           "period": "-2m",
           "strongBuy": 1,
+          "buy": 10,
+          "hold": 18,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 1,
           "buy": 13,
           "hold": 19,
           "sell": 0,
@@ -58003,7 +59596,7 @@
       "buy": 9,
       "hold": 14,
       "sell": 0,
-      "target": 95.7619,
+      "target": 96.0,
       "target_high": 108.0,
       "target_low": 88.0,
       "rating": "buy",
@@ -58021,6 +59614,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 1,
+          "buy": 8,
+          "hold": 14,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 2,
           "buy": 9,
           "hold": 12,
@@ -58028,8 +59630,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 9,
           "hold": 12,
@@ -58064,13 +59666,22 @@
           "period": "-1m",
           "strongBuy": 8,
           "buy": 29,
-          "hold": 5,
+          "hold": 6,
           "sell": 1,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 8,
+          "buy": 29,
+          "hold": 5,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 30,
           "hold": 6,
@@ -58126,7 +59737,7 @@
       "buy": 6,
       "hold": 13,
       "sell": 0,
-      "target": 139.27937,
+      "target": 139.59187,
       "target_high": 164.0,
       "target_low": 110.47,
       "rating": "buy",
@@ -58153,6 +59764,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 5,
+          "hold": 13,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 5,
           "hold": 13,
@@ -58208,7 +59828,7 @@
       "buy": 20,
       "hold": 10,
       "sell": 2,
-      "target": 182.19852,
+      "target": 185.68,
       "target_high": 255.0,
       "target_low": 70.0,
       "rating": "buy",
@@ -58226,8 +59846,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 2,
-          "buy": 18,
+          "strongBuy": 1,
+          "buy": 19,
           "hold": 10,
           "sell": 1,
           "strongSell": 1
@@ -58235,6 +59855,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 18,
+          "hold": 10,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 18,
           "hold": 10,
@@ -58358,6 +59987,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 16,
+          "hold": 5,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 16,
           "hold": 5,
@@ -58372,7 +60010,7 @@
       "buy": 2,
       "hold": 12,
       "sell": 4,
-      "target": 109.21429,
+      "target": 109.57143,
       "target_high": 150.0,
       "target_low": 95.0,
       "rating": "hold",
@@ -58390,6 +60028,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 0,
+          "buy": 2,
+          "hold": 12,
+          "sell": 3,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 1,
           "buy": 2,
           "hold": 11,
@@ -58397,8 +60044,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 1,
           "hold": 13,
@@ -58413,7 +60060,7 @@
       "buy": 8,
       "hold": 32,
       "sell": 3,
-      "target": 58.31485,
+      "target": 58.76939,
       "target_high": 147.39,
       "target_low": 36.0,
       "rating": "hold",
@@ -58433,13 +60080,22 @@
           "period": "-1m",
           "strongBuy": 3,
           "buy": 5,
-          "hold": 31,
-          "sell": 4,
+          "hold": 32,
+          "sell": 3,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 5,
+          "hold": 31,
+          "sell": 4,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 5,
           "hold": 32,
@@ -58555,7 +60211,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 2,
-          "buy": 9,
+          "buy": 8,
           "hold": 16,
           "sell": 1,
           "strongSell": 1
@@ -58563,6 +60219,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 9,
+          "hold": 16,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 9,
           "hold": 15,
@@ -58659,8 +60324,8 @@
       "buy": 12,
       "hold": 6,
       "sell": 2,
-      "target": 205.47368,
-      "target_high": 240.0,
+      "target": 207.52632,
+      "target_high": 246.0,
       "target_low": 138.0,
       "rating": "buy",
       "n_analysts": 19,
@@ -58681,11 +60346,20 @@
           "buy": 9,
           "hold": 6,
           "sell": 1,
-          "strongSell": 0
+          "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 9,
+          "hold": 6,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 8,
           "hold": 8,
@@ -58732,6 +60406,15 @@
           "hold": 12,
           "sell": 0,
           "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 0,
+          "buy": 4,
+          "hold": 12,
+          "sell": 0,
+          "strongSell": 1
         }
       ]
     },
@@ -58760,14 +60443,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 4,
-          "buy": 12,
-          "hold": 6,
+          "buy": 11,
+          "hold": 7,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 12,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 11,
           "hold": 6,
@@ -58823,7 +60515,7 @@
       "buy": 10,
       "hold": 13,
       "sell": 0,
-      "target": 125.65,
+      "target": 125.7,
       "target_high": 138.0,
       "target_low": 108.0,
       "rating": "buy",
@@ -58841,8 +60533,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 2,
-          "buy": 8,
+          "strongBuy": 1,
+          "buy": 9,
           "hold": 13,
           "sell": 0,
           "strongSell": 0
@@ -58850,6 +60542,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 8,
+          "hold": 13,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 8,
           "hold": 13,
@@ -58905,7 +60606,7 @@
       "buy": 2,
       "hold": 8,
       "sell": 2,
-      "target": 107.25,
+      "target": 107.33333,
       "target_high": 125.0,
       "target_low": 92.0,
       "rating": "hold",
@@ -58932,6 +60633,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 0,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 2
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 0,
           "hold": 9,
@@ -58964,8 +60674,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 5,
-          "buy": 9,
+          "strongBuy": 6,
+          "buy": 8,
           "hold": 11,
           "sell": 0,
           "strongSell": 0
@@ -58973,6 +60683,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 9,
+          "hold": 11,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 9,
           "hold": 10,
@@ -58987,7 +60706,7 @@
       "buy": 7,
       "hold": 16,
       "sell": 2,
-      "target": 230.2381,
+      "target": 229.80952,
       "target_high": 308.0,
       "target_low": 198.0,
       "rating": "hold",
@@ -59005,6 +60724,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 3,
+          "buy": 4,
+          "hold": 16,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 4,
           "hold": 14,
@@ -59012,8 +60740,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 4,
           "hold": 16,
@@ -59047,7 +60775,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 2,
-          "buy": 9,
+          "buy": 8,
           "hold": 8,
           "sell": 0,
           "strongSell": 0
@@ -59055,6 +60783,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 9,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 10,
           "hold": 8,
@@ -59180,6 +60917,15 @@
           "period": "-2m",
           "strongBuy": 3,
           "buy": 10,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 3,
+          "buy": 10,
           "hold": 5,
           "sell": 0,
           "strongSell": 1
@@ -59192,7 +60938,7 @@
       "buy": 6,
       "hold": 15,
       "sell": 0,
-      "target": 336.0,
+      "target": 336.41177,
       "target_high": 379.0,
       "target_low": 285.0,
       "rating": "hold",
@@ -59210,6 +60956,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 2,
+          "buy": 4,
+          "hold": 15,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 3,
           "buy": 4,
           "hold": 12,
@@ -59217,8 +60972,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 4,
           "hold": 12,
@@ -59274,7 +61029,7 @@
       "buy": 22,
       "hold": 7,
       "sell": 1,
-      "target": 762.08075,
+      "target": 765.48816,
       "target_high": 976.0,
       "target_low": 410.0,
       "rating": "buy",
@@ -59292,8 +61047,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 1,
-          "buy": 21,
+          "strongBuy": 0,
+          "buy": 22,
           "hold": 7,
           "sell": 0,
           "strongSell": 1
@@ -59301,6 +61056,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 21,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 21,
           "hold": 7,
@@ -59376,13 +61140,22 @@
           "period": "-1m",
           "strongBuy": 2,
           "buy": 7,
-          "hold": 8,
+          "hold": 7,
           "sell": 0,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 7,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 7,
           "hold": 9,
@@ -59456,6 +61229,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 5,
+          "buy": 12,
+          "hold": 1,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 12,
           "hold": 2,
@@ -59463,8 +61245,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 12,
           "hold": 2,
@@ -59520,7 +61302,7 @@
       "buy": 15,
       "hold": 8,
       "sell": 0,
-      "target": 229.81728,
+      "target": 230.68091,
       "target_high": 265.0,
       "target_low": 180.0,
       "rating": "buy",
@@ -59547,6 +61329,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 11,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 10,
           "hold": 8,
@@ -59602,7 +61393,7 @@
       "buy": 10,
       "hold": 10,
       "sell": 0,
-      "target": 86.5,
+      "target": 86.55556,
       "target_high": 103.0,
       "target_low": 82.0,
       "rating": "buy",
@@ -59621,7 +61412,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 3,
-          "buy": 8,
+          "buy": 7,
           "hold": 10,
           "sell": 0,
           "strongSell": 0
@@ -59629,6 +61420,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 8,
+          "hold": 10,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 8,
           "hold": 10,
@@ -59661,6 +61461,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 4,
+          "buy": 14,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 5,
           "buy": 16,
           "hold": 8,
@@ -59668,8 +61477,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 16,
           "hold": 8,
@@ -59702,6 +61511,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 1,
+          "buy": 5,
+          "hold": 12,
+          "sell": 3,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 2,
           "buy": 6,
           "hold": 11,
@@ -59709,8 +61527,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 6,
           "hold": 10,
@@ -59766,7 +61584,7 @@
       "buy": 7,
       "hold": 10,
       "sell": 1,
-      "target": 248.6,
+      "target": 248.53333,
       "target_high": 325.0,
       "target_low": 180.0,
       "rating": "buy",
@@ -59785,14 +61603,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 1,
-          "buy": 8,
-          "hold": 8,
+          "buy": 6,
+          "hold": 10,
           "sell": 1,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 8,
+          "hold": 8,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 8,
           "hold": 7,
@@ -59925,6 +61752,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 10,
+          "hold": 14,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 10,
           "hold": 13,
@@ -59957,6 +61793,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 4,
+          "buy": 5,
+          "hold": 8,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 6,
           "buy": 6,
           "hold": 6,
@@ -59964,8 +61809,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 6,
           "hold": 7,
@@ -60059,20 +61904,20 @@
     "RCL": {
       "ticker": "RCL",
       "market": "us",
-      "buy": 19,
+      "buy": 20,
       "hold": 8,
       "sell": 1,
-      "target": 347.5,
+      "target": 349.44443,
       "target_high": 425.0,
       "target_low": 262.0,
       "rating": "buy",
-      "n_analysts": 26,
+      "n_analysts": 27,
       "rows": [
         {
           "index": 0,
           "period": "0m",
           "strongBuy": 4,
-          "buy": 15,
+          "buy": 16,
           "hold": 8,
           "sell": 0,
           "strongSell": 1
@@ -60081,14 +61926,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 4,
-          "buy": 16,
-          "hold": 7,
+          "buy": 15,
+          "hold": 8,
           "sell": 0,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 16,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 15,
           "hold": 7,
@@ -60103,11 +61957,11 @@
       "buy": 23,
       "hold": 1,
       "sell": 0,
-      "target": 518.6316,
+      "target": 516.95,
       "target_high": 553.0,
       "target_low": 444.0,
       "rating": "strong_buy",
-      "n_analysts": 19,
+      "n_analysts": 20,
       "rows": [
         {
           "index": 0,
@@ -60121,8 +61975,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 5,
-          "buy": 18,
+          "strongBuy": 6,
+          "buy": 17,
           "hold": 1,
           "sell": 0,
           "strongSell": 0
@@ -60130,6 +61984,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 18,
+          "hold": 1,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 18,
           "hold": 1,
@@ -60226,9 +62089,9 @@
       "buy": 11,
       "hold": 10,
       "sell": 0,
-      "target": 229.85,
+      "target": 229.6,
       "target_high": 280.0,
-      "target_low": 166.0,
+      "target_low": 167.0,
       "rating": "buy",
       "n_analysts": 20,
       "rows": [
@@ -60245,14 +62108,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 4,
-          "buy": 6,
-          "hold": 11,
+          "buy": 7,
+          "hold": 10,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 6,
+          "hold": 11,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 6,
           "hold": 11,
@@ -60267,7 +62139,7 @@
       "buy": 26,
       "hold": 2,
       "sell": 2,
-      "target": 62.0,
+      "target": 62.03448,
       "target_high": 71.0,
       "target_low": 43.0,
       "rating": "buy",
@@ -60286,7 +62158,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 7,
-          "buy": 18,
+          "buy": 19,
           "hold": 2,
           "sell": 1,
           "strongSell": 1
@@ -60294,6 +62166,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 7,
+          "buy": 18,
+          "hold": 2,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 7,
           "buy": 18,
           "hold": 2,
@@ -60308,7 +62189,7 @@
       "buy": 22,
       "hold": 2,
       "sell": 1,
-      "target": 1106.0869,
+      "target": 1115.8696,
       "target_high": 1600.0,
       "target_low": 700.0,
       "rating": "strong_buy",
@@ -60327,14 +62208,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 4,
-          "buy": 17,
-          "hold": 3,
+          "buy": 18,
+          "hold": 2,
           "sell": 0,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 17,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 16,
           "hold": 3,
@@ -60428,20 +62318,20 @@
     "SHW": {
       "ticker": "SHW",
       "market": "us",
-      "buy": 13,
+      "buy": 14,
       "hold": 11,
       "sell": 0,
-      "target": 389.6,
+      "target": 390.09525,
       "target_high": 420.0,
       "target_low": 340.0,
       "rating": "buy",
-      "n_analysts": 20,
+      "n_analysts": 21,
       "rows": [
         {
           "index": 0,
           "period": "0m",
           "strongBuy": 3,
-          "buy": 10,
+          "buy": 11,
           "hold": 11,
           "sell": 0,
           "strongSell": 0
@@ -60458,6 +62348,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 10,
+          "hold": 11,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 11,
           "hold": 10,
@@ -60472,7 +62371,7 @@
       "buy": 7,
       "hold": 13,
       "sell": 1,
-      "target": 227.94737,
+      "target": 229.42105,
       "target_high": 285.0,
       "target_low": 194.0,
       "rating": "buy",
@@ -60491,14 +62390,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 1,
-          "buy": 7,
-          "hold": 12,
+          "buy": 6,
+          "hold": 13,
           "sell": 0,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 7,
+          "hold": 12,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 8,
           "hold": 12,
@@ -60595,7 +62503,7 @@
       "buy": 17,
       "hold": 0,
       "sell": 0,
-      "target": 55.96667,
+      "target": 56.03333,
       "target_high": 68.0,
       "target_low": 46.0,
       "rating": "strong_buy",
@@ -60614,7 +62522,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 5,
-          "buy": 10,
+          "buy": 12,
           "hold": 0,
           "sell": 0,
           "strongSell": 0
@@ -60622,6 +62530,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 10,
+          "hold": 0,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 10,
           "hold": 0,
@@ -60715,20 +62632,20 @@
     "SO": {
       "ticker": "SO",
       "market": "us",
-      "buy": 7,
+      "buy": 6,
       "hold": 14,
       "sell": 3,
-      "target": 100.875,
+      "target": 100.65789,
       "target_high": 114.0,
       "target_low": 79.0,
       "rating": "hold",
-      "n_analysts": 20,
+      "n_analysts": 19,
       "rows": [
         {
           "index": 0,
           "period": "0m",
           "strongBuy": 1,
-          "buy": 6,
+          "buy": 5,
           "hold": 14,
           "sell": 2,
           "strongSell": 1
@@ -60738,13 +62655,22 @@
           "period": "-1m",
           "strongBuy": 1,
           "buy": 6,
-          "hold": 15,
-          "sell": 1,
+          "hold": 14,
+          "sell": 2,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 6,
+          "hold": 15,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 6,
           "hold": 15,
@@ -60819,7 +62745,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 0,
-          "buy": 5,
+          "buy": 4,
           "hold": 11,
           "sell": 0,
           "strongSell": 0
@@ -60827,6 +62753,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 0,
+          "buy": 5,
+          "hold": 11,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 5,
           "hold": 11,
@@ -60839,9 +62774,9 @@
       "ticker": "SBUX",
       "market": "us",
       "buy": 16,
-      "hold": 16,
-      "sell": 4,
-      "target": 110.74194,
+      "hold": 17,
+      "sell": 3,
+      "target": 111.74194,
       "target_high": 143.0,
       "target_low": 81.0,
       "rating": "buy",
@@ -60852,14 +62787,14 @@
           "period": "0m",
           "strongBuy": 4,
           "buy": 12,
-          "hold": 16,
-          "sell": 2,
+          "hold": 17,
+          "sell": 1,
           "strongSell": 2
         },
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 5,
+          "strongBuy": 4,
           "buy": 12,
           "hold": 16,
           "sell": 2,
@@ -60868,6 +62803,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 12,
+          "hold": 16,
+          "sell": 2,
+          "strongSell": 2
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 12,
           "hold": 16,
@@ -61005,7 +62949,7 @@
       "buy": 23,
       "hold": 5,
       "sell": 0,
-      "target": 383.73077,
+      "target": 381.5,
       "target_high": 465.0,
       "target_low": 315.0,
       "rating": "buy",
@@ -61024,14 +62968,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 7,
-          "buy": 14,
-          "hold": 6,
+          "buy": 16,
+          "hold": 5,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 7,
+          "buy": 14,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 7,
           "buy": 14,
           "hold": 7,
@@ -61087,7 +63040,7 @@
       "buy": 16,
       "hold": 8,
       "sell": 0,
-      "target": 88.95652,
+      "target": 89.08696,
       "target_high": 104.0,
       "target_low": 78.0,
       "rating": "buy",
@@ -61105,6 +63058,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 4,
+          "buy": 12,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 3,
           "buy": 12,
           "hold": 9,
@@ -61112,8 +63074,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 12,
           "hold": 9,
@@ -61229,7 +63191,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 9,
-          "buy": 15,
+          "buy": 14,
           "hold": 4,
           "sell": 0,
           "strongSell": 0
@@ -61237,6 +63199,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 9,
+          "buy": 15,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 9,
           "buy": 15,
           "hold": 4,
@@ -61251,7 +63222,7 @@
       "buy": 0,
       "hold": 9,
       "sell": 4,
-      "target": 109.0,
+      "target": 109.16667,
       "target_high": 124.0,
       "target_low": 86.0,
       "rating": "hold",
@@ -61278,6 +63249,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 0,
+          "buy": 0,
+          "hold": 9,
+          "sell": 1,
+          "strongSell": 3
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 0,
           "hold": 9,
@@ -61319,6 +63299,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 26,
+          "hold": 0,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 25,
           "hold": 0,
@@ -61402,6 +63391,15 @@
           "index": 2,
           "period": "-2m",
           "strongBuy": 6,
+          "buy": 14,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 6,
           "buy": 13,
           "hold": 3,
           "sell": 0,
@@ -61415,7 +63413,7 @@
       "buy": 12,
       "hold": 23,
       "sell": 3,
-      "target": 135.34265,
+      "target": 135.98972,
       "target_high": 170.0,
       "target_low": 92.0,
       "rating": "buy",
@@ -61442,6 +63440,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 10,
+          "hold": 23,
+          "sell": 0,
+          "strongSell": 3
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 9,
           "hold": 24,
@@ -61579,7 +63586,7 @@
       "buy": 23,
       "hold": 18,
       "sell": 6,
-      "target": 398.29776,
+      "target": 397.87274,
       "target_high": 600.0,
       "target_low": 125.0,
       "rating": "buy",
@@ -61597,6 +63604,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 6,
+          "buy": 17,
+          "hold": 18,
+          "sell": 4,
+          "strongSell": 2
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 5,
           "buy": 18,
           "hold": 19,
@@ -61604,8 +63620,8 @@
           "strongSell": 2
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 18,
           "hold": 18,
@@ -61720,6 +63736,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 1,
+          "buy": 6,
+          "hold": 10,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 0,
           "buy": 6,
           "hold": 11,
@@ -61727,8 +63752,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 6,
           "hold": 11,
@@ -61825,7 +63850,7 @@
       "buy": 18,
       "hold": 4,
       "sell": 0,
-      "target": 232.3158,
+      "target": 231.89474,
       "target_high": 275.0,
       "target_low": 185.0,
       "rating": "strong_buy",
@@ -61844,14 +63869,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 3,
-          "buy": 14,
-          "hold": 5,
+          "buy": 15,
+          "hold": 4,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 14,
+          "hold": 5,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 14,
           "hold": 5,
@@ -61886,13 +63920,22 @@
           "period": "-1m",
           "strongBuy": 2,
           "buy": 11,
-          "hold": 18,
-          "sell": 4,
+          "hold": 19,
+          "sell": 3,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 11,
+          "hold": 18,
+          "sell": 4,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 12,
           "hold": 20,
@@ -61926,14 +63969,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 2,
-          "buy": 14,
-          "hold": 14,
+          "buy": 13,
+          "hold": 15,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 14,
+          "hold": 14,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 14,
           "hold": 14,
@@ -61968,13 +64020,22 @@
           "period": "-1m",
           "strongBuy": 2,
           "buy": 11,
+          "hold": 11,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 2,
+          "buy": 11,
           "hold": 10,
           "sell": 0,
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 10,
           "hold": 10,
@@ -61989,7 +64050,7 @@
       "buy": 13,
       "hold": 9,
       "sell": 0,
-      "target": 1511.95,
+      "target": 1512.0,
       "target_high": 1937.0,
       "target_low": 1200.0,
       "rating": "buy",
@@ -62007,6 +64068,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 2,
+          "buy": 11,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 4,
           "buy": 11,
           "hold": 7,
@@ -62014,8 +64084,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 11,
           "hold": 7,
@@ -62030,7 +64100,7 @@
       "buy": 6,
       "hold": 17,
       "sell": 6,
-      "target": 357.83334,
+      "target": 360.33334,
       "target_high": 430.0,
       "target_low": 262.0,
       "rating": "hold",
@@ -62048,6 +64118,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 1,
+          "buy": 5,
+          "hold": 17,
+          "sell": 4,
+          "strongSell": 2
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 2,
           "buy": 6,
           "hold": 17,
@@ -62055,8 +64134,8 @@
           "strongSell": 3
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 6,
           "hold": 18,
@@ -62194,11 +64273,11 @@
       "buy": 4,
       "hold": 8,
       "sell": 1,
-      "target": 68.5,
-      "target_high": 81.0,
+      "target": 68.90909,
+      "target_high": 78.0,
       "target_low": 56.0,
       "rating": "hold",
-      "n_analysts": 12,
+      "n_analysts": 11,
       "rows": [
         {
           "index": 0,
@@ -62221,6 +64300,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 2,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 2,
           "hold": 8,
@@ -62253,6 +64341,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 1,
+          "buy": 12,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 2,
           "buy": 9,
           "hold": 10,
@@ -62260,8 +64357,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 9,
           "hold": 8,
@@ -62294,7 +64391,7 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 11,
+          "strongBuy": 9,
           "buy": 35,
           "hold": 6,
           "sell": 1,
@@ -62303,6 +64400,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 11,
+          "buy": 35,
+          "hold": 6,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 10,
           "buy": 36,
           "hold": 6,
@@ -62317,7 +64423,7 @@
       "buy": 9,
       "hold": 11,
       "sell": 2,
-      "target": 42.0,
+      "target": 42.2381,
       "target_high": 46.0,
       "target_low": 38.0,
       "rating": "buy",
@@ -62336,14 +64442,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 1,
-          "buy": 7,
-          "hold": 12,
+          "buy": 8,
+          "hold": 11,
           "sell": 1,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 7,
+          "hold": 12,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 1,
           "buy": 7,
           "hold": 12,
@@ -62582,14 +64697,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 6,
+          "buy": 16,
+          "hold": 5,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 6,
           "buy": 17,
           "hold": 4,
           "sell": 1,
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 16,
           "hold": 5,
@@ -62604,7 +64728,7 @@
       "buy": 7,
       "hold": 12,
       "sell": 1,
-      "target": 193.88235,
+      "target": 193.4706,
       "target_high": 290.0,
       "target_low": 162.0,
       "rating": "buy",
@@ -62622,6 +64746,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 1,
+          "buy": 6,
+          "hold": 12,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 2,
           "buy": 6,
           "hold": 11,
@@ -62629,8 +64762,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 6,
           "hold": 11,
@@ -62643,10 +64776,10 @@
       "ticker": "VLO",
       "market": "us",
       "buy": 10,
-      "hold": 6,
-      "sell": 3,
-      "target": 304.42105,
-      "target_high": 357.0,
+      "hold": 7,
+      "sell": 2,
+      "target": 309.21054,
+      "target_high": 365.0,
       "target_low": 190.0,
       "rating": "buy",
       "n_analysts": 19,
@@ -62656,13 +64789,22 @@
           "period": "0m",
           "strongBuy": 3,
           "buy": 7,
-          "hold": 6,
-          "sell": 2,
+          "hold": 7,
+          "sell": 1,
           "strongSell": 1
         },
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 3,
+          "buy": 7,
+          "hold": 6,
+          "sell": 2,
+          "strongSell": 1
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 2,
           "buy": 7,
           "hold": 7,
@@ -62670,8 +64812,8 @@
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 7,
           "hold": 7,
@@ -62704,7 +64846,7 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 8,
+          "strongBuy": 9,
           "buy": 13,
           "hold": 7,
           "sell": 1,
@@ -62713,6 +64855,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 8,
+          "buy": 13,
+          "hold": 7,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 8,
           "buy": 14,
           "hold": 7,
@@ -62727,7 +64878,7 @@
       "buy": 18,
       "hold": 5,
       "sell": 0,
-      "target": 99.68182,
+      "target": 100.72727,
       "target_high": 114.0,
       "target_low": 86.0,
       "rating": "buy",
@@ -62747,13 +64898,22 @@
           "period": "-1m",
           "strongBuy": 4,
           "buy": 14,
-          "hold": 4,
+          "hold": 5,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 14,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 14,
           "hold": 4,
@@ -62828,7 +64988,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 0,
-          "buy": 2,
+          "buy": 3,
           "hold": 2,
           "sell": 0,
           "strongSell": 0
@@ -62836,6 +64996,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 0,
+          "buy": 2,
+          "hold": 2,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 2,
           "hold": 1,
@@ -62868,8 +65037,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 4,
-          "buy": 6,
+          "strongBuy": 3,
+          "buy": 7,
           "hold": 9,
           "sell": 0,
           "strongSell": 0
@@ -62877,6 +65046,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 6,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 6,
           "hold": 8,
@@ -62920,6 +65098,15 @@
           "period": "-2m",
           "strongBuy": 3,
           "buy": 8,
+          "hold": 15,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 3,
+          "buy": 8,
           "hold": 14,
           "sell": 0,
           "strongSell": 0
@@ -62932,11 +65119,11 @@
       "buy": 23,
       "hold": 4,
       "sell": 2,
-      "target": 557.125,
+      "target": 558.32,
       "target_high": 652.0,
       "target_low": 350.0,
       "rating": "buy",
-      "n_analysts": 24,
+      "n_analysts": 25,
       "rows": [
         {
           "index": 0,
@@ -62950,8 +65137,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 6,
-          "buy": 21,
+          "strongBuy": 4,
+          "buy": 19,
           "hold": 4,
           "sell": 1,
           "strongSell": 1
@@ -62959,6 +65146,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 6,
+          "buy": 21,
+          "hold": 4,
+          "sell": 1,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 21,
           "hold": 5,
@@ -62973,8 +65169,8 @@
       "buy": 24,
       "hold": 4,
       "sell": 0,
-      "target": 339.34616,
-      "target_high": 416.0,
+      "target": 337.5,
+      "target_high": 410.0,
       "target_low": 236.0,
       "rating": "strong_buy",
       "n_analysts": 26,
@@ -62992,14 +65188,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 3,
+          "buy": 21,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 3,
           "buy": 19,
           "hold": 3,
           "sell": 0,
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 18,
           "hold": 3,
@@ -63055,8 +65260,8 @@
       "buy": 17,
       "hold": 8,
       "sell": 0,
-      "target": 32.91667,
-      "target_high": 39.0,
+      "target": 32.79167,
+      "target_high": 38.0,
       "target_low": 27.0,
       "rating": "buy",
       "n_analysts": 24,
@@ -63082,6 +65287,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 12,
+          "hold": 8,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 12,
           "hold": 7,
@@ -63114,7 +65328,7 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 8,
+          "strongBuy": 9,
           "buy": 29,
           "hold": 3,
           "sell": 0,
@@ -63123,6 +65337,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 8,
+          "buy": 29,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 7,
           "buy": 28,
           "hold": 3,
@@ -63137,7 +65360,7 @@
       "buy": 19,
       "hold": 0,
       "sell": 1,
-      "target": 221.94444,
+      "target": 221.61111,
       "target_high": 320.0,
       "target_low": 106.0,
       "rating": "strong_buy",
@@ -63158,12 +65381,21 @@
           "strongBuy": 4,
           "buy": 15,
           "hold": 0,
-          "sell": 1,
-          "strongSell": 0
+          "sell": 0,
+          "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 4,
+          "buy": 15,
+          "hold": 0,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 14,
           "hold": 0,
@@ -63199,12 +65431,21 @@
           "strongBuy": 2,
           "buy": 13,
           "hold": 7,
-          "sell": 0,
-          "strongSell": 1
+          "sell": 1,
+          "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 13,
+          "hold": 7,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 13,
           "hold": 6,
@@ -63279,14 +65520,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 0,
+          "buy": 3,
+          "hold": 14,
+          "sell": 0,
+          "strongSell": 2
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 0,
           "buy": 4,
           "hold": 11,
           "sell": 1,
           "strongSell": 2
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 0,
           "buy": 4,
           "hold": 10,
@@ -63339,21 +65589,21 @@
     "WMT": {
       "ticker": "WMT",
       "market": "us",
-      "buy": 37,
-      "hold": 5,
+      "buy": 36,
+      "hold": 6,
       "sell": 1,
-      "target": 138.02438,
+      "target": 137.975,
       "target_high": 155.0,
       "target_low": 81.0,
       "rating": "buy",
-      "n_analysts": 41,
+      "n_analysts": 40,
       "rows": [
         {
           "index": 0,
           "period": "0m",
           "strongBuy": 9,
-          "buy": 28,
-          "hold": 5,
+          "buy": 27,
+          "hold": 6,
           "sell": 1,
           "strongSell": 0
         },
@@ -63369,6 +65619,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 9,
+          "buy": 28,
+          "hold": 5,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 9,
           "buy": 30,
           "hold": 4,
@@ -63402,7 +65661,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 6,
-          "buy": 21,
+          "buy": 22,
           "hold": 2,
           "sell": 1,
           "strongSell": 0
@@ -63410,6 +65669,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 6,
+          "buy": 21,
+          "hold": 2,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 6,
           "buy": 21,
           "hold": 2,
@@ -63492,6 +65760,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 16,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 16,
           "hold": 9,
@@ -63607,14 +65884,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 3,
-          "buy": 12,
-          "hold": 9,
+          "buy": 13,
+          "hold": 10,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 12,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 12,
           "hold": 8,
@@ -63629,8 +65915,8 @@
       "buy": 17,
       "hold": 4,
       "sell": 1,
-      "target": 252.40909,
-      "target_high": 280.0,
+      "target": 255.59091,
+      "target_high": 292.0,
       "target_low": 192.0,
       "rating": "buy",
       "n_analysts": 22,
@@ -63649,13 +65935,22 @@
           "period": "-1m",
           "strongBuy": 5,
           "buy": 12,
-          "hold": 3,
+          "hold": 4,
           "sell": 0,
           "strongSell": 1
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 12,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 12,
           "hold": 4,
@@ -63739,6 +66034,15 @@
           "index": 2,
           "period": "-2m",
           "strongBuy": 4,
+          "buy": 18,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 1
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 4,
           "buy": 17,
           "hold": 3,
           "sell": 0,
@@ -63752,9 +66056,9 @@
       "buy": 9,
       "hold": 3,
       "sell": 0,
-      "target": 31.18182,
+      "target": 31.27273,
       "target_high": 38.0,
-      "target_low": 27.0,
+      "target_low": 28.0,
       "rating": "buy",
       "n_analysts": 11,
       "rows": [
@@ -63770,8 +66074,8 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 3,
-          "buy": 6,
+          "strongBuy": 2,
+          "buy": 7,
           "hold": 3,
           "sell": 0,
           "strongSell": 0
@@ -63779,6 +66083,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 6,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 6,
           "hold": 3,
@@ -63831,21 +66144,21 @@
     "WMB": {
       "ticker": "WMB",
       "market": "us",
-      "buy": 20,
-      "hold": 3,
+      "buy": 19,
+      "hold": 4,
       "sell": 0,
-      "target": 83.77273,
+      "target": 83.71429,
       "target_high": 99.0,
       "target_low": 67.0,
       "rating": "strong_buy",
-      "n_analysts": 22,
+      "n_analysts": 21,
       "rows": [
         {
           "index": 0,
           "period": "0m",
           "strongBuy": 5,
-          "buy": 15,
-          "hold": 3,
+          "buy": 14,
+          "hold": 4,
           "sell": 0,
           "strongSell": 0
         },
@@ -63854,13 +66167,22 @@
           "period": "-1m",
           "strongBuy": 5,
           "buy": 15,
+          "hold": 3,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
+          "strongBuy": 5,
+          "buy": 15,
           "hold": 2,
           "sell": 0,
           "strongSell": 1
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 16,
           "hold": 4,
@@ -63872,12 +66194,12 @@
     "WTW": {
       "ticker": "WTW",
       "market": "us",
-      "buy": 15,
-      "hold": 6,
+      "buy": 14,
+      "hold": 7,
       "sell": 0,
-      "target": 360.57895,
+      "target": 371.57895,
       "target_high": 406.0,
-      "target_low": 300.0,
+      "target_low": 303.0,
       "rating": "buy",
       "n_analysts": 19,
       "rows": [
@@ -63885,8 +66207,8 @@
           "index": 0,
           "period": "0m",
           "strongBuy": 2,
-          "buy": 13,
-          "hold": 6,
+          "buy": 12,
+          "hold": 7,
           "sell": 0,
           "strongSell": 0
         },
@@ -63902,6 +66224,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 13,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 13,
           "hold": 6,
@@ -63957,9 +66288,9 @@
       "buy": 20,
       "hold": 0,
       "sell": 0,
-      "target": 133.3158,
+      "target": 132.6842,
       "target_high": 145.0,
-      "target_low": 118.0,
+      "target_low": 115.0,
       "rating": "strong_buy",
       "n_analysts": 19,
       "rows": [
@@ -63975,6 +66306,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 4,
+          "buy": 16,
+          "hold": 0,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 3,
           "buy": 15,
           "hold": 1,
@@ -63982,8 +66322,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 4,
           "buy": 15,
           "hold": 0,
@@ -64080,7 +66420,7 @@
       "buy": 11,
       "hold": 14,
       "sell": 0,
-      "target": 174.57143,
+      "target": 173.85715,
       "target_high": 200.0,
       "target_low": 147.0,
       "rating": "buy",
@@ -64100,13 +66440,22 @@
           "period": "-1m",
           "strongBuy": 2,
           "buy": 9,
-          "hold": 15,
+          "hold": 14,
           "sell": 0,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 2,
+          "buy": 9,
+          "hold": 15,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 9,
           "hold": 16,
@@ -64201,20 +66550,20 @@
       "ticker": "ZTS",
       "market": "us",
       "buy": 11,
-      "hold": 9,
+      "hold": 8,
       "sell": 0,
-      "target": 111.94118,
+      "target": 110.8125,
       "target_high": 160.0,
       "target_low": 80.0,
       "rating": "buy",
-      "n_analysts": 17,
+      "n_analysts": 16,
       "rows": [
         {
           "index": 0,
           "period": "0m",
           "strongBuy": 3,
           "buy": 8,
-          "hold": 9,
+          "hold": 8,
           "sell": 0,
           "strongSell": 0
         },
@@ -64230,6 +66579,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 3,
+          "buy": 8,
+          "hold": 9,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 3,
           "buy": 8,
           "hold": 9,
@@ -64244,7 +66602,7 @@
       "buy": 22,
       "hold": 6,
       "sell": 0,
-      "target": 386.29166,
+      "target": 380.125,
       "target_high": 536.0,
       "target_low": 230.0,
       "rating": "buy",
@@ -64253,8 +66611,8 @@
         {
           "index": 0,
           "period": "0m",
-          "strongBuy": 8,
-          "buy": 14,
+          "strongBuy": 7,
+          "buy": 15,
           "hold": 6,
           "sell": 0,
           "strongSell": 0
@@ -64262,6 +66620,15 @@
         {
           "index": 1,
           "period": "-1m",
+          "strongBuy": 8,
+          "buy": 14,
+          "hold": 6,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 2,
+          "period": "-2m",
           "strongBuy": 7,
           "buy": 14,
           "hold": 8,
@@ -64269,8 +66636,8 @@
           "strongSell": 0
         },
         {
-          "index": 2,
-          "period": "-2m",
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 7,
           "buy": 15,
           "hold": 8,
@@ -64326,9 +66693,9 @@
       "buy": 40,
       "hold": 3,
       "sell": 1,
-      "target": 2136.3503,
-      "target_high": 2862.36,
-      "target_low": 890.6746,
+      "target": 2140.5398,
+      "target_high": 2867.9734,
+      "target_low": 892.4213,
       "rating": "strong_buy",
       "n_analysts": 15,
       "rows": [
@@ -64367,9 +66734,9 @@
       "buy": 8,
       "hold": 4,
       "sell": 0,
-      "target": 109.79517,
-      "target_high": 116.86852,
-      "target_low": 96.83974,
+      "target": 110.5494,
+      "target_high": 120.304535,
+      "target_low": 97.02965,
       "rating": "buy",
       "n_analysts": 11,
       "rows": [
@@ -64395,6 +66762,15 @@
           "index": 2,
           "period": "-2m",
           "strongBuy": 1,
+          "buy": 7,
+          "hold": 4,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
+          "strongBuy": 1,
           "buy": 6,
           "hold": 4,
           "sell": 0,
@@ -64408,9 +66784,9 @@
       "buy": 1,
       "hold": 2,
       "sell": 0,
-      "target": 77.06731,
-      "target_high": 92.05848,
-      "target_low": 69.36334,
+      "target": 77.218445,
+      "target_high": 92.23901,
+      "target_low": 69.49937,
       "rating": "buy",
       "n_analysts": 3,
       "rows": [
@@ -64449,7 +66825,7 @@
       "buy": 23,
       "hold": 0,
       "sell": 0,
-      "target": 196.18182,
+      "target": 195.95454,
       "target_high": 243.0,
       "target_low": 140.0,
       "rating": "strong_buy",
@@ -64468,7 +66844,7 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 5,
-          "buy": 17,
+          "buy": 18,
           "hold": 0,
           "sell": 0,
           "strongSell": 0
@@ -64476,6 +66852,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 5,
+          "buy": 17,
+          "hold": 0,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 5,
           "buy": 17,
           "hold": 0,
@@ -64572,7 +66957,7 @@
       "buy": 14,
       "hold": 1,
       "sell": 0,
-      "target": 264.2857,
+      "target": 257.5,
       "target_high": 550.0,
       "target_low": 125.0,
       "rating": "strong_buy",
@@ -64590,7 +66975,7 @@
         {
           "index": 1,
           "period": "-1m",
-          "strongBuy": 1,
+          "strongBuy": 2,
           "buy": 12,
           "hold": 1,
           "sell": 0,
@@ -64599,6 +66984,15 @@
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 1,
+          "buy": 12,
+          "hold": 1,
+          "sell": 0,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 2,
           "buy": 12,
           "hold": 1,
@@ -64613,9 +67007,9 @@
       "buy": 22,
       "hold": 14,
       "sell": 1,
-      "target": 116.44673,
-      "target_high": 170.81703,
-      "target_low": 80.32136,
+      "target": 116.55385,
+      "target_high": 170.97415,
+      "target_low": 80.39524,
       "rating": "buy",
       "n_analysts": 34,
       "rows": [
@@ -64673,14 +67067,23 @@
           "index": 1,
           "period": "-1m",
           "strongBuy": 10,
-          "buy": 28,
-          "hold": 12,
+          "buy": 29,
+          "hold": 11,
           "sell": 1,
           "strongSell": 0
         },
         {
           "index": 2,
           "period": "-2m",
+          "strongBuy": 10,
+          "buy": 28,
+          "hold": 12,
+          "sell": 1,
+          "strongSell": 0
+        },
+        {
+          "index": 3,
+          "period": "-3m",
           "strongBuy": 10,
           "buy": 28,
           "hold": 12,
